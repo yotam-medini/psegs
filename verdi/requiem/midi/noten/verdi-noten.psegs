@@ -1,0 +1,31 @@
+# dum.midi
+
+1 Requiem 007-078 : 1-requiem-noten.midi  0,3:40
+1 Requiem 094-109 : 1-requiem-noten.midi  4:10,5:03
+1 Requiem 094-138 : 1-requiem-noten.midi  5:07,6:24
+
+2 Dies Irae / Dies Irae      003-065 : 2a-diesira-noten.midi 0:00,1:39
+2 Dies Irae / Dies Irae      078-091 : 2a-diesira-noten.midi 1:50,2:16
+2 Dies Irae / Tuba mirum     117-139 : 2b-tubamiru-noten.midi 0,
+2 Dies Irae / Liber scriptus 239-266 : 2c-liberscriptus-noten.midi 0,
+2 Dies Irae / Liber scriptus 324-379 : 2e-rextremende-noten.midi 0:00,3:19
+2 Dies Irae / Confutatis     575-612 : 2h-confutatis-noten.midi 0:00,1:01
+2 Dies Irae / La Crymosa     645-665 : 2i-lacrymosa-noten.midi 1:19,2:47
+2 Dies Irae / La Crymosa     677-697 : 2i-lacrymosa-noten.midi 3:30,
+
+4 Sanctus : 4-sanctus-noten.midi 0,
+
+5 Agnus Dei 14 - 26 : 5-agnusdei-noten.midi 0:34,1:17
+5 Agnus Dei 40 - 45 : 5-agnusdei-noten.midi 1:47,2:08
+5 Agnus Dei 59 - 72 : 5-agnusdei-noten.midi 2:41,
+
+7 Liber Me   47-124 : 7-liberame-a-noten.midi 0:00,2:00
+
+7 Liber Me  132-170 : 7-liberame-b-noten.midi 0:00,2:00
+
+7 Liber Me  200-311 : 7-liberame-c-noten.midi 0:23,3:35
+7 Liber Me  312-350 : 7-liberame-c-noten.midi 3:34,4:38
+7 Liber Me  369-421 : 7-liberame-c-noten.midi 5:01,6:35
+
+# timiseg -idt --segment 0:30,3:38 07C_LIBERA_ME_ten.mid
+# timiseg -idt --segment 3:34 07C_LIBERA_ME_ten.mid

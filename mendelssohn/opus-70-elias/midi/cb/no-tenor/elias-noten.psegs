@@ -1,0 +1,22 @@
+dum.midi
+
+ 1   1 -  8  : 01-noten.midi 0:00,0:26
+ 1   9 - 58  : 01-noten.midi 0:26,3:10
+ 1  60 - 66  : 01-noten.midi 3:10,3:33
+
+                 
+ 5   1 -  14 : 05-noten.midi 0:00,0:19
+ 5  20 -  66 : 05-noten.midi 0:23,1:25
+ 5  67 -  88 : 05-noten.midi 1:24,1:54
+ 5  89 - 138 : 05-noten.midi 1:53,2:55
+
+ 9   7 - 26  : 09-noten.midi 0:09,1:02
+ 9  34 - 65  : 09-noten.midi 1:16,2:42
+
+10  27 - 31  : 10-noten.midi 0:00,0:12
+10  57 - 62  : 10-noten.midi 0:15,0:28
+10  78 - 84  : 10-noten.midi 0:30,0:41
+
+11 all :   11-noten.midi 0:00,3:35
+12 15-end: 12-noten.midi 0:00,0:31
+13 12-end: 13-noten.midi 0:00,1:11

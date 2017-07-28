@@ -1,0 +1,49 @@
+dum.mp3
+
+m01  70 --  93 :  01-Stabat-mater-dolorosa.mp3  4:30  6:00
+m01 113 -- 140 :  01-Stabat-mater-dolorosa.mp3  7:10  9:03
+m01 146 -- 164 :  01-Stabat-mater-dolorosa.mp3  9:15 10:23
+m01 203 -- 212 :  01-Stabat-mater-dolorosa.mp3 12:25 13:06
+m01 231 -- 272 :  01-Stabat-mater-dolorosa.mp3 14:05 16:27
+m01 285 -- 313 :  01-Stabat-mater-dolorosa.mp3 17:08 18:53
+m01 319 -- 346 :  01-Stabat-mater-dolorosa.mp3 19:00 20:40
+m01 363 -- 376 :  01-Stabat-mater-dolorosa.mp3 21:38 22:32
+
+# 02-Quis-est-homo-qui-non-fleret.mp3
+
+m03 007 -- 018 : 03-Eia-mater-fons-amoris.mp3 0:28 1:12
+m03 022 -- 052 : 03-Eia-mater-fons-amoris.mp3 0:20 3:33
+m03 056 -- 077 : 03-Eia-mater-fons-amoris.mp3 3:47 4:23
+m03 079 -- 110 : 03-Eia-mater-fons-amoris.mp3 4:30 7:36
+
+m04 088 -- 104 : 04-Fac-ut-ardeat-cor-meum.mp3 5:37 6:41
+
+m05 009 -- 027 : 05-Tui-nati-vulnerati.mp3 0:29 1:32
+m05 029 -- 037 : 05-Tui-nati-vulnerati.mp3 1:36 2:07
+m05 043 -- 057 : 05-Tui-nati-vulnerati.mp3 2:23 3:16
+m05 063 -- 096 : 05-Tui-nati-vulnerati.mp3 2:29 4:38 
+m05 104 -- 109 : 05-Tui-nati-vulnerati.mp3 5:04 5:26
+m05 115 -- 129 : 05-Tui-nati-vulnerati.mp3 5:42 6:40
+
+m06 026 -- 033 : 06-Fac-me-vere-tecum-flere.mp3 1:20 1:51
+m06 042 -- 049 : 06-Fac-me-vere-tecum-flere.mp3 2:12 2:41
+m06 058 -- 065 : 06-Fac-me-vere-tecum-flere.mp3 3:02 3:30
+m06 068 -- 077 : 06-Fac-me-vere-tecum-flere.mp3 3:29 4:05
+m06 090 -- 093 : 06-Fac-me-vere-tecum-flere.mp3 4:44.5 5:01
+m06 098 -- 110 : 06-Fac-me-vere-tecum-flere.mp3 5:13 5:56
+m06 112 -- 121 : 06-Fac-me-vere-tecum-flere.mp3 5:56 6:27
+
+m07 013 -- 030 : 07-Virgo-virginum-praeclara.mp3 0:34 1:24
+m07 039 -- 072 : 07-Virgo-virginum-praeclara.mp3 1:44 3:14
+m07 083 -- 117 : 07-Virgo-virginum-praeclara.mp3 3:38 5:12
+m07 119 -- 147 : 07-Virgo-virginum-praeclara.mp3 5:13 6:09
+m07 151 -- 157 : 07-Virgo-virginum-praeclara.mp3 6:37 7:02
+
+# 08-Fac-ut-portem-Christi-mortem.mp3
+# 09-Inflammatus-et-accensus.mp3
+
+m10  28 --  53 :  10-Quando-corpus-morietur.mp3 1:25 2:52
+m10  66 --  84 :  10-Quando-corpus-morietur.mp3 3:15 4:01
+m10  89 -- 180 :  10-Quando-corpus-morietur.mp3 4:02 6:06
+m10 199 -- 211 :  10-Quando-corpus-morietur.mp3 6:41 7:32
+

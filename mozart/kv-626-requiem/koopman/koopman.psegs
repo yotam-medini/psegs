@@ -1,0 +1,26 @@
+dum.mp3
+# psegs.py -pp "$(mplaysp.py 1 1.05)"
+
+Kyrie  8 - 19      : 01-kyrie.mp3 0:35 1:35
+Kyrie 26 - 32       : 01-kyrie.mp3 2:05 2:42
+Kyrie 34 - 48       : 01-kyrie.mp3 2:45 4:05
+Kyrie 49 -          : 01-kyrie.mp3 4:05 6:22
+Dies Irae           : 02-dies-irae.mp3 0:00 1:32
+Tuba                : 03-tuba-mirum.mp3 0:00 3:32
+Rex                 : 04-rex-tremendae.mp3 0:00 1:41
+Recordare 14 - 34   : 05-recordare.mp3 0:31 1:25
+Recordare 38 - 52   : 05-recordare.mp3 1:31 2:07
+Recordare 54 - 68   : 05-recordare.mp3 2:09 2:48
+Recordare 72 -      : 05-recordare.mp3 2:54 5:26
+Conf                : 06-confutatis.mp3 0:00 2:22
+Lacr                : 07-lacrimosa.mp3 0:00 2:41
+Domi                : 08-domine-jesu.mp3 0:00 9:55
+Host                : 09-hostias.mp3 0:00 9:55
+Sanctus             : 10-sanctus.mp3 0:00 0:50
+Hosana              : 10-sanctus.mp3 0:47 1:18
+Banedictus          : 11-benedictus.mp3 0:00 4:09
+Hosana-2            : 11-benedictus.mp3 4:24 4:52
+Agnus-Dei           : 12-agnus-dei.mp3 0:00 3:28
+Lux-Aeterna         : 12-agnus-dei.mp3 4:04 6:05
+Cum-Sanctis         : 12-agnus-dei.mp3 6:05 8:22
+

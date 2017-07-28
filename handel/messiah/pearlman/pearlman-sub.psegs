@@ -1,0 +1,13 @@
+dum.mp3
+# -pp "$(mplaysp.py 1 1.05)"
+
+04  14- 38 : 04-And_The_Glory_Of_The_Lord.mp3 0:10 0:42
+04  47- 83 : 04-And_The_Glory_Of_The_Lord.mp3 0:45 1:30
+04  89-107 : 04-And_The_Glory_Of_The_Lord.mp3 1:32 1:56
+04 110-138 : 04-And_The_Glory_Of_The_Lord.mp3 1:57 2:37
+          
+44  4- 41 : 44-Hallelujah_Chorus.mp3 0:05 1:30
+44 43- 94 : 44-Hallelujah_Chorus.mp3 1:29 3:41
+          
+54  6- 20 : 53-Worthy_is_the_lamb-Amen_Chorus.mp3 3:34.9 4:21
+54 32- 88 : 53-Worthy_is_the_lamb-Amen_Chorus.mp3 4:38   7:10

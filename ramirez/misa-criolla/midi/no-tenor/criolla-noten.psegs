@@ -1,0 +1,19 @@
+dum.midi
+
+1 Kyrie      1- 45     : 1-kyrie-noten.midi 0:00,
+
+2 Gloria    14- 37     : 2-gloria-noten.midi 0:20,1:37
+2 Gloria    45- 73     : 2-gloria-noten.midi 1:57,3:57
+2 Gloria    95-130     : 2-gloria-noten.midi 4:25,5:22
+
+3 Credo     21- 34     : 3-credo-noten.midi 0:20,0:45
+3 Credo     48- 97     : 3-credo-noten.midi 1:00,2:04
+3 Credo    102-113     : 3-credo-noten.midi 2:11,2:21
+3 Credo    125-143     : 3-credo-noten.midi 2:30,
+
+4 Sanctus   79- 88     : 4-sanctus-noten.midi 1:30,1:45
+
+5 Agnus Dei  8I - 14I  : 5-agnusdei-noten.midi 0:21,0:48
+5 Agnus Dei 19I - 14II : 5-agnusdei-noten.midi 0:55,1:45
+5 Agnus Dei 19II- 29   : 5-agnusdei-noten.midi 1:52,2:40
+5 Agnus Dei 33  - 39   : 5-agnusdei-noten.midi 2:38,3:10

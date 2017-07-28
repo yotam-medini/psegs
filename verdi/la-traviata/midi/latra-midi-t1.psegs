@@ -1,0 +1,22 @@
+dum.mid
+
+p5            :  02-dellinvito_trascorsa-t1.mid  3000000  3600000
+p7 - p8       :  02-dellinvito_trascorsa-t1.mid  5300000  6000000
+p11           :  02-dellinvito_trascorsa-t1.mid  8800000  9400000
+p12           :  02-dellinvito_trascorsa-t1.mid 10800000 11400000
+p16 -  p18    :  02-dellinvito_trascorsa-t1.mid 16200000 18800000
+p22 -- p23    :  03-libiamo_ne_lieti_calici-t1.mid 2600000 3200000
+p25 -- p27    :  03-libiamo_ne_lieti_calici-t1.mid 4800000 5700000
+p28 -- p32    :  03-libiamo_ne_lieti_calici-t1.mid 6200000 7614455
+p33 -- p38    :  04-un_di_felice_eterea-t1.mid  0 2700000
+p52 -- p64    :  05-stretta_of_the_introduction-t1.mid 800000 6400000
+
+p144 -- p147 ?
+
+p148 -- p150  :  13-di_madrid_noi_siam_mattadori-t1.mid       0  2400000
+p150 -- p159  :  13-di_madrid_noi_siam_mattadori-t1.mid 2400000  9121065
+              :  14-alfredo_voi1-t1.mid 
+p181 -- p184  :  14-alfredo_voi3-t1.mid 350000 1881700
+p187 -- p190  :  15-di_sprezzo_degno_se_stesso_rende-t1.mid 2600000  3640000
+p191 -- p206  :  15-di_sprezzo_degno_se_stesso_rende-t1.mid 4800000 11300000
+# p219 -- p221  :  17-largo_al_quadrupede-t1.mid

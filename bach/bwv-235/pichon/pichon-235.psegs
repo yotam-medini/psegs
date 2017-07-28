@@ -1,0 +1,22 @@
+dum.mp3
+# $(mplaysp.py 1 1.05)
+
+
+# bars
+M1-  21        : 1-Kyrie.mp3  0:55 1:00
+M1-  23 --  30 : 1-Kyrie.mp3  1:09 1:25
+M1-  34 --  44 : 1-Kyrie.mp3  1:32 2:04
+M1-  52 --  69 : 1-Kyrie.mp3  2:22 3:16
+M1-  74 --  88 : 1-Kyrie.mp3  3:24 4:11
+M1-  91 -- 118 : 1-Kyrie.mp3  4:14 5:38
+
+M2-  01 --  39 : 2-Gloria-in-Excelsis-Deo.mp3  0:00 1:07
+M2-  48 --  60 : 2-Gloria-in-Excelsis-Deo.mp3  1:15 1:43
+M2-  65 --  86 : 2-Gloria-in-Excelsis-Deo.mp3  1:47 2:25
+M2-  88 -- 102 : 2-Gloria-in-Excelsis-Deo.mp3  2:35 2:57
+
+M6-  01 --  29 : 6-Cum-Sancto-Spiritu.mp3  0:00   1:06
+M6-  49 --  68 : 6-Cum-Sancto-Spiritu.mp3  1:43   2:37
+M6-  70 --  78 : 6-Cum-Sancto-Spiritu.mp3  2:36   2:59
+M6-  81 --  91 : 6-Cum-Sancto-Spiritu.mp3  3:01   3:29
+M6-  93 -- 105 : 6-Cum-Sancto-Spiritu.mp3  3:31   4:06

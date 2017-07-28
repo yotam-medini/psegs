@@ -1,0 +1,25 @@
+dum.mp3 
+# -pp "$(mplaysp.py 1 1.05)" 
+
+Dixit   0 -- 116       : 1-dixit-dominus.mp3 0:00 2:42
+Dixit 129 -- 164       : 1-dixit-dominus.mp3 2:55 3:50
+Confitebor 0--34       : 2-confitebor.mp3  0:00 1:28
+Confitebor 58--65      : 2-confitebor.mp3  2:26 2:49
+Confitebor 76--        : 2-confitebor.mp3  3:14 4:27
+
+# 3-beatus-vir.mp3
+Beatus Vir   0 --  29  : 3-beatus-vir.mp3 0:00 0:40
+Beatus Vir  42 --  58  : 3-beatus-vir.mp3 0:55 1:21
+Beatus Vir  75 --  89  : 3-beatus-vir.mp3 1:42 2:02
+Beatus Vir 103 -- 114  : 3-beatus-vir.mp3 2:22 2:38
+Beatus Vir 125 -- 139  : 3-beatus-vir.mp3 2:54 3:14
+Beatus Vir 154 -- 190  : 3-beatus-vir.mp3 3:33 4:27
+Laudate Pueri  all     : 4-laudate-pueri.mp3 0:00 3:07
+Laudate Dominum 42 --  : 5-laudate-dominum.mp3 3:08 5:40
+# 6-magnificat.mp3
+Magnificat   1 --   6  : 6-magnificat.mp3 0:00 0:29
+Magnificat  11 --  26  : 6-magnificat.mp3 0:41 1:22
+Magnificat  34 --  53  : 6-magnificat.mp3 1:40 2:33
+Magnificat  59 --  74  : 6-magnificat.mp3 2:46 3:26
+Magnificat  81 --  99  : 6-magnificat.mp3 3:44 4:35
+

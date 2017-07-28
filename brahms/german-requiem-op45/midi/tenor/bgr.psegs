@@ -1,0 +1,58 @@
+dum.midi
+
+1 Selig..Leid p3   15 - 45 : 1-SELIG_ten.midi 0:40,2:20
+1 Selig..Leid p4   47 - 63 : 1-SELIG_ten.midi 2:21,3:18
+1 Selig..Leid p6   66 - 76 : 1-SELIG_ten.midi 3:24,4:01
+1 Selig..Leid p6   78 - 96 : 1-SELIG_ten.midi 4:03,5:03
+1 Selig..Leid p8  100 -135 : 1-SELIG_ten.midi 5:09,7:05
+1 Selig..Leid p10 140 -157 : 1-SELIG_ten.midi 7:17,8:17
+
+2 Denn Alles p12  23 - 42 : 2-DENNALLES_ten.midi 0:52,1:41
+2 Denn Alles p13  54 - 73 : 2-DENNALLES_ten.midi 2:09,2:57
+2 Denn Alles p14  74 - 83 : 2-DENNALLES_ten.midi 2:57,3:14
+2 Denn Alles p14  87 -123 : 2-DENNALLES_ten.midi 3:17,4:16
+2 Denn Alles p17 146 -165 : 2-DENNALLES_ten.midi 5:05,5:54
+2 Denn Alles p18 178 -206 : 2-DENNALLES_ten.midi 6:22,7:32
+2 Denn Alles p20 212 -231 : 2-DENNALLES_ten.midi 7:38,8:14
+2 Denn Alles p21 233 -290 : 2-DENNALLES_ten.midi 8:13,9:53
+2 Denn Alles p25 291- 305 : 2-DENNALLES_ten.midi 9:52,10:15
+2 Denn Alles p26 319- 337 : 2-DENNALLES_ten.midi 10:43,11:51
+
+3 Herr Lehre p28  17 -  33 : 3-HERR_ten.midi 0:29,1:06
+3 Herr Lehre p30  48 -  66 : 3-HERR_ten.midi 1:32,2:12
+3 Herr Lehre p31  81 -  93 : 3-HERR_ten.midi 2:38,3:06
+3 Herr Lehre p34 129 - 138 : 3-HERR_ten.midi 4:13,4:36
+3 Herr Lehre p35 144 - 161 : 3-HERR_ten.midi 4:44,5:23
+3 Herr Lehre p37 164 - 173 : 3-HERR_ten.midi 5:24,6:30
+3 Herr Lehre p38 173 - 208 : 3-HERR_ten.midi 6:29,8:18
+
+4 Wie Lieblich p44   4 -  13 : 4-WIELIEBLICH_ten.midi 0:00,0:21
+4 Wie Lieblich p44  16 -  43 : 4-WIELIEBLICH_ten.midi 0:21,1:07
+4 Wie Lieblich p46  46 -  84 : 4-WIELIEBLICH_ten.midi 1:07,2:07
+4 Wie Lieblich p48  89 - 123 : 4-WIELIEBLICH_ten.midi 2:11,3:06
+4 Wie Lieblich p51 126 - 158 : 4-WIELIEBLICH_ten.midi 3:06,3:59
+4 Wie Lieblich p53 164 - 173 : 4-WIELIEBLICH_ten.midi 4:04,4:21
+
+5 IHRHABT p54 18-36 : 5-IHRHABT_ten.midi 1:10,1:45
+5 IHRHABT p56 34-37 : 5-IHRHABT_ten.midi 2:15,2:30
+5 IHRHABT p57 43-49 : 5-IHRHABT_ten.midi 2:50,3:18
+5 IHRHABT p58 61-79 : 5-IHRHABT_ten.midi 4:07,5:20
+
+6 Denn WirHaben p61   3 -  16 : 6-DENNWIR_ten.midi 0:00,0:38
+6 Denn WirHaben p62  20 -  26 : 6-DENNWIR_ten.midi 0:40,1:02
+6 Denn WirHaben p63  40 -  46 : 6-DENNWIR_ten.midi 1:30,1:50
+6 Denn WirHaben p63  53 -  62 : 6-DENNWIR_ten.midi 2:02,2:28
+6 Denn WirHaben p65  71 -  78 : 6-DENNWIR_ten.midi 2:44,3:03
+6 Denn WirHaben p65  82 - 104 : 6-DENNWIR_ten.midi 3:06,3:37
+6 Denn WirHaben p68 127 - 207 : 6-DENNWIR_ten.midi 4:08,5:47
+6 Denn WirHaben p74 220 - 238 : 6-DENNWIR_ten.midi 6:07,6:46
+6 Denn WirHaben p76 243 - 266 : 6-DENNWIR_ten.midi 6:52,7:41
+6 Denn WirHaben p78 268 - 316 : 6-DENNWIR_ten.midi 7:41,9:16
+6 Denn WirHaben p82 318 - 348 : 6-DENNWIR_ten.midi 9:16,10:20
+
+7 Selig...Toten p84  18 -  34 : 7-Seilig-ten.midi 0:59,2:05
+7 Selig...Toten p87  40 -  81 : 7-Seilig-ten.midi 2:23,5:02
+7 Selig...Toten p90  87 - 100 : 7-Seilig-ten.midi 5:20,6:16
+7 Selig...Toten p91 103 - 127 : 7-Seilig-ten.midi 6:19,7:54
+7 Selig...Toten p93 131 - 146 : 7-Seilig-ten.midi 8:02,9:07
+7 Selig...Toten p94 150 - 168 : 7-Seilig-ten.midi 9:15,10:20

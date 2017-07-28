@@ -1,0 +1,21 @@
+foo.midi
+
+Kyrie [1]  p001-p008          : 01-kyrie-ten.midi        0  6500000
+Kyrie [2+] p009-p010          : 01-kyrie-ten.midi  6800000 10400000
+Kyrie [3]  p011-p018          : 01-kyrie-ten.midi 10600000 16700000
+
+Cum Suncto [25+] p076-p076    : 01-kyrie-ten.midi   850000  1750000
+Cum Suncto [26+] p078-p099    : 01-kyrie-ten.midi  3200000 18100000
+Cum Suncto [32+] p100-p105    : 01-kyrie-ten.midi 18400000 23000000
+
+Et Resurrexit [37+] p129-p131 : 10a-et-resurrexit-ten.midi        0  1740000
+Et Resurrexit [38]  p132-p133 : 10a-et-resurrexit-ten.midi  2400000  2900000
+Et Resurrexit [38+] p134-p138 : 10a-et-resurrexit-ten.midi  3700000  6100000
+Et Resurrexit [39+] p140-p142 : 10a-et-resurrexit-ten.midi  7100000  8590000
+Et Resurrexit [40+] p143-p149 : 10a-et-resurrexit-ten.midi  9300000 12900000
+
+Et Resurrexit [42]  p150-p172 : 10b-et-resurrexit-ten.midi         0 12100000
+Et Resurrexit [45+] p173-p173 : 10b-et-resurrexit-ten.midi  12700000 13000000
+
+# 10a-et-resurrexit-ten.midi
+# 10b-et-resurrexit-ten.midi

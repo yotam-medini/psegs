@@ -1,0 +1,24 @@
+dum.mp3
+# -pp "$(mplaysp.py 1 1.05)"
+
+04  : 04-And_the_Glory_of_the_Lord_shall_be_revealed.mp3 0:00 2:51
+07  : 07-And_He_shall_purify_the_Sons_of_Levi.mp3 0:00 2:22
+09  : 09-O_thou_that_tellest_good_Tidings_to_Zion.mp3 3:18 4:47
+12  : 12-For_unto_us_a_Child_is_born.mp3 0:00 3:36
+17  : 15-Glory_to_God_in_the_Highest.mp3 0:00 1:41
+21  : 19-His_Yoke_is_easy_his_Burthen_is_light.mp3 0:00 2:08
+22  : 20-Behold_the_Lamb_of_God.mp3 0:00 3:09
+24  : 22-Surely_he_hath_borne_our_Griefs.mp3 0:00 1:39
+25  : 23-And_with_His_Stripes_we_are_healed.mp3 0:00 1:44
+26  : 24-All_we_like_Sheep_have_gone_astray.mp3 0:00 3:21
+28  : 26-He_trusted_in_God.mp3 0:00 2:03
+33  : 31-Lift_Up_Your_Heads_O_Ye_Gates.mp3 0:00 2:47
+35  : 33-Let_All_the_Angels_of_God_Worship_Him.mp3 0:00 1:21
+37  : 35-The_Lord_Gave_the_Word.mp3 0:00 1:05
+39  : 37-Their_Sound_Is_Gone_Out_into_All_Lands.mp3 0:00 1:18
+41  : 39-Let_Us_Break_Their_Bonds_Asunder.mp3 0:00 1:38
+44  : 41-Hallelujah.mp3 0:00 3:43
+46  : 43-Since_By_Man_Came_Death.mp3 0:00 2:03
+51  : 48-But_Thanks_Be_to_God.mp3 0:00 1:57
+53  : 50-Worthy_Is_the_Lamb_that_Was_Slain_Amen.mp3 0:00 3:07
+54  : 50-Worthy_Is_the_Lamb_that_Was_Slain_Amen.mp3 3:07 7:34

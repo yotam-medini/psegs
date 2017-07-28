@@ -1,0 +1,21 @@
+dum.midi
+
+1    1 -  38 :  1-introit.midi  0:00,3:00
+1   50 -  61 :  1-introit.midi  3:27,4:15
+1   63 -  78 :  1-introit.midi  4:14,5:11
+1   81 -  91 :  1-introit.midi  5:11,5:54
+
+2   7 - 30  :  2-offertoire.midi  0:24,2:31
+2  77 - 94  :  2-offertoire.midi  4:46,6:22
+
+# 3-sanctus.midi
+
+5    7- 69 : 5-agnus-dei.midi 0:00,2:55
+5   76- 88 : 5-agnus-dei.midi 3:07,4:29
+
+6   37 -  85 :  6-libera.midi  1:09,2:43
+6   92 - 123 :  6-libera.midi  2:49,3:58
+6  131 - 136 :  6-libera.midi  4:03,4:24
+
+7   20 - 29  :  7-paradis.midi 0:57,1:33
+7   20 - 29  :  7-paradis.midi 2:22

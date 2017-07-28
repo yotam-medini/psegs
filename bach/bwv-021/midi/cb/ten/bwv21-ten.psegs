@@ -1,0 +1,27 @@
+dum.midi
+
+02  1 -  6 : 02-BEKUEMMERNIS_ten.midi 0:01,0:21
+02  8 - 38 : 02-BEKUEMMERNIS_ten.midi 0:27,2:07
+02 39 - 47 : 02-BEKUEMMERNIS_ten.midi 2:07,2:38
+02 49 - 58 : 02-BEKUEMMERNIS_ten.midi 2:41,3:17
+
+06  1 - 25 : 06-WAS_BETRUEBTS_ten.midi 0:04,1:07
+06 26 - 33 : 06-WAS_BETRUEBTS_ten.midi 1:07,1:32
+06 37 - 42 : 06-WAS_BETRUEBTS_ten.midi 1:44,2:08
+06 49 - 53 : 06-WAS_BETRUEBTS_ten.midi 2:20,2:37
+06 61 - 75 : 06-WAS_BETRUEBTS_ten.midi 2:55,3:47
+
+09  15 -  24 : 09-ZUFRIEDEN_ten.midi  0:19,0:40
+09  27 -  37 : 09-ZUFRIEDEN_ten.midi  0:40,1:02
+09  54 -  63 : 09-ZUFRIEDEN_ten.midi  1:22,1:43
+09  66 -  76 : 09-ZUFRIEDEN_ten.midi  1:42,2:04
+09  88 -  98 : 09-ZUFRIEDEN_ten.midi  2:18,2:40
+09 101 - 111 : 09-ZUFRIEDEN_ten.midi  2:40,3:00
+09 116 - 142 : 09-ZUFRIEDEN_ten.midi  3:04,3:51
+09 144 - 179 : 09-ZUFRIEDEN_ten.midi  3:50,4:50
+09 181 - 216 : 09-ZUFRIEDEN_ten.midi  4:49,5:49
+
+11   1 - 11 :  11-DAS_Lamm_ten.midi  0:00,0:46
+11  15 - 28 :  11-DAS_Lamm_ten.midi  0:54,1:29
+11  29 - 44 :  11-DAS_Lamm_ten.midi  1:27,2:09
+11  43 - 68 :  11-DAS_Lamm_ten.midi  2:05,3:11
