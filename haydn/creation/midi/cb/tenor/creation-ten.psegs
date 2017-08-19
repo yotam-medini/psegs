@@ -1,7 +1,7 @@
 dum.midi
 
 
-2 p4 18-27 : 02SPIRIT_ten.midi
+2 p4 18-27 : 02SPIRIT_ten.midi 0:00,0:37
 
 3 p11  76 - 113 : 03RAGE_ten.midi 0:00,1:15
 3 p16 120 - 148 : 03RAGE_ten.midi 1:22,2:26
@@ -11,7 +11,7 @@ dum.midi
 5 p26  35 - 47 : 05WORK_ten.midi 1:10,1:52
 
 11 p43  1 -  9 : 11HARP_ten.midi 0:00,0:31
-11 p44 11 - 55 : 11HARP_ten.midi 0:31,2:47
+11 p44 11 - 55 : 11HARP_ten.midi 0:33,2:47
 
 14 p56   1 -   4 : 14HEAVENS_ten.midi 0:02,0:09
 14 p56   8 -  18 : 14HEAVENS_ten.midi 0:12,0:30
@@ -36,6 +36,6 @@ dum.midi
 
 35 p204  1 -  9 : 33SING_ten.midi 0:02,0:29
 35 p205 10 - 35 : 33SING_ten.midi 0:29,1:49
-35 p214 40 - 60 : 33SING_ten.midi 1:56,3:03
+35 p210 40 - 60 : 33SING_ten.midi 1:56,3:03
 35 p215 64 - 65 : 33SING_ten.midi 3:08,3:18
 35 p216 68 - 83 : 33SING_ten.midi 3:21,4:12

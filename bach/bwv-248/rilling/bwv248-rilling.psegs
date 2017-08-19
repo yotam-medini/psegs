@@ -55,6 +55,15 @@ dum.mp3
 3/24r  17-48   : 36-3-Herrscher_des_Himmels_erhore_das_Lallen.mp3 0:18 1:03
 3/24r  65-96   : 36-3-Herrscher_des_Himmels_erhore_das_Lallen.mp3 1:20 2:09
 
+4/36   25- 80  : 37-4-Coro_Fallt_Mit_Danken*.mp3 0:30 1:55
+4/36   97-120  : 37-4-Coro_Fallt_Mit_Danken*.mp3 2:14 2:51
+4/36  137-160  : 37-4-Coro_Fallt_Mit_Danken*.mp3 3:12 3:48
+4/36  161-224  : 37-4-Coro_Fallt_Mit_Danken*.mp3 3:48 5:23
+
+4/42   5-32 : 43-4-Choral_Jesus_Richte_Mein_Beginnen.mp3 0:08 1:27
+4/42  37-49 : 43-4-Choral_Jesus_Richte_Mein_Beginnen.mp3 1:33 2:11
+
+
 5/43   17- 54 : 44-5-Coro-Ehre_sei_dir_Gott_gesungen.mp3 0:28 1:45
 5/43   58- 75 : 44-5-Coro-Ehre_sei_dir_Gott_gesungen.mp3 1:49 2:27
 5/43   76- 98 : 44-5-Coro-Ehre_sei_dir_Gott_gesungen.mp3 2:25 3:12
@@ -71,7 +80,19 @@ dum.mp3
 # 49-5-Da_das_der_Konig_Herodes_horte.mp3
 # 50-5-Warum_wollt_ihr_erschrecken?.mp3
 # 51-5-Und_liess_versammlen_alle_Hohepriester.mp3
-5/51  21- 61 : 52-5-Aria_Terzetto-Ach_wenn_wird_Zeit_erscheinen.mp3 0:31 1:49
-5/51  80-170 : 52-5-Aria_Terzetto-Ach_wenn_wird_Zeit_erscheinen.mp3 2:18 4:58
+
+# 5/51  21- 61 : 52-5-Aria_Terzetto-Ach_wenn_wird_Zeit_erscheinen.mp3 0:31 1:49
+# 5/51  80-170 : 52-5-Aria_Terzetto-Ach_wenn_wird_Zeit_erscheinen.mp3 2:18 4:58
+
 # 53-5-Mein_Liebster_herrschet_schon.mp3
 5/53          : 54-5-Choral-Zwar_ist_solche_Herzensstube.mp3 0:00 0:54
+
+
+6/54  48-116  : 55-6-Coro-Herr_wenn_die_stolzen_Feinde_schnauben.mp3 0:51 2:14
+6/54 120-160  : 55-6-Coro-Herr_wenn_die_stolzen_Feinde_schnauben.mp3 2:17 3:04
+6/54 164-184  : 55-6-Coro-Herr_wenn_die_stolzen_Feinde_schnauben.mp3 3:05 3:31
+6/54 185-240  : 55-6-Coro-Herr_wenn_die_stolzen_Feinde_schnauben.mp3 3:31 4:38
+
+6/59  1-14    : 60-6-Choral-Ich_steh_an_deiner_Krippen_hier.mp3 0:00 1:07
+
+6/64  12-57   : 65-6-Chora_l-_Nun_seid_ihr_wohl_gerochen.mp3 0:27 2:34
