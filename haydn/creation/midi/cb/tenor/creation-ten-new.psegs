@@ -1,0 +1,40 @@
+dum.midi
+
+
+2 p4 18-27 : 02SPIRIT_ten.midi 0:00,0:37
+
+3 p11  76 - 113 : 03RAGE_ten.midi 0:00,1:15
+3 p16 120 - 148 : 03RAGE_ten.midi 1:22,2:26
+
+5 p23  16 - 22 : 05WORK_ten.midi 0:00,0:30
+5 p25  26 - 30 : 05WORK_ten.midi 0:36,0:55
+5 p26  35 - 47 : 05WORK_ten.midi 1:10,1:52
+
+11 p43  1 -  9 : 11HARP_ten.midi 0:00,0:31
+11 p44 11 - 55 : 11HARP_ten.midi 0:33,2:47
+
+14 p56   1 -   4 : 14HEAVENS_ten.midi 0:02,0:09
+14 p56   8 -  18 : 14HEAVENS_ten.midi 0:12,0:30
+14 p59  37 -  54 : 14HEAVENS_ten.midi 0:55,1:24
+14 p63  94 - 105 : 14HEAVENS_ten.midi 2:21,2:41
+14 p65 109 - 143 : 14HEAVENS_ten.midi 2:46,3:38
+14 p68 145 - 194 : 14HEAVENS_ten.midi 3:40,4:54
+
+20 p96  13 - 34 : 20LORD_ten.midi 0:32,1:41
+20 p103 38 - 52 : 20LORD_ten.midi 1:50,2:35
+20 p108 57 - 65 : 20LORD_ten.midi 2:48,3:14
+
+27 p127  5 - 33 : 27a_SOUL_ten.midi 0:05,1:30
+
+29 p140  1 - 75 : 27B_GLORIOUS_ten.midi 0:03,3:47
+
+# 31 p156   24-46 : 29A_BLISS_ten.midi 0:00,1:49
+# 31 p162  82- 96 : 29BSTARS_ten.midi 0:00,0:29
+# 31 p165 146-161 : 29BSTARS_ten.midi 1:54,2:26
+# 31 p170 214-226 : 29BSTARS_ten.midi 3:56,4:23
+# 31 p173 261-380 : 29BSTARS_ten.midi 5:27,9:03
+
+35 p204  1 -  9 : 33SING_ten.midi 0:02,0:29
+35 p205 10 - 35 : 33SING_ten.midi 0:29,1:49
+35 p210 40 - 60 : 33SING_ten.midi 1:56,3:03
+35 p215 64 - 68 : 33SING_ten.midi 3:08,4:12
