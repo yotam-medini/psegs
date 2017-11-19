@@ -1,25 +1,25 @@
 dum.mp3
 
-1/01  33- 81 : 01-1-Jauchzet_frohlocket.mp3 0:40 1:51
-1/01  89-137 : 01-1-Jauchzet_frohlocket.mp3 1:55 3:07
-1/01 138-170 : 01-1-Jauchzet_frohlocket.mp3 3:01 3:50
-1/01 186-201 : 01-1-Jauchzet_frohlocket.mp3 4:06 4:32
-1/01r 33- 81 : 01-1-Jauchzet_frohlocket.mp3 5:13 6:22
-1/01r 89-137 : 01-1-Jauchzet_frohlocket.mp3 6:29 7:58
+1/01  p2   33- 81 : 01-1-Jauchzet_frohlocket.mp3 0:40 1:51
+1/01  p7   89-137 : 01-1-Jauchzet_frohlocket.mp3 1:55 3:07
+1/01  p12 138-170 : 01-1-Jauchzet_frohlocket.mp3 3:01 3:50
+1/01  p15 186-201 : 01-1-Jauchzet_frohlocket.mp3 4:06 4:32
+1/01r p2   33- 81 : 01-1-Jauchzet_frohlocket.mp3 5:13 6:22
+1/01r p7   89-137 : 01-1-Jauchzet_frohlocket.mp3 6:29 7:58
 
 # 02-1-Es_begab_sich_aber_zu_der_Zeit.mp3
 # 03-1-Nun_wird_mein_liebster_Brautigam.mp3
 # 04-1-Bereite_dich_Zion.mp3
-1/05         : 05-1-Wie_soll_ich_dich_empfangen.mp3 0:00 1:22
+1/05 p25     : 05-1-Wie_soll_ich_dich_empfangen.mp3 0:00 1:22
 
 # 06-1-Und_sie_gebar.mp3
 # 07-1-Er_ist_auf_Erden_kommen_arm.mp3
 # 08-1-Grosser_Herr_o_starker_Konig.mp3
-1/09         : 09-1-Ach_mein_herzliebes_Jesulein.mp3 0:00 1:13
+1/09 p36     : 09-1-Ach_mein_herzliebes_Jesulein.mp3 0:00 1:13
 
 # 10-2-Sinfonia.mp3
 # 11-2-Und_es_waren_Hirten_in_derselben_Gegend.mp3
-2/12         : 12-2-Brich_an_o_schones_Morgenlicht.mp3 0:00 1:14
+2/12 p42     : 12-2-Brich_an_o_schones_Morgenlicht.mp3 0:00 1:14
 
 # 13-2-Und_der_Engel_sprach_zu_ihnen.mp3
 # 14-2-Was_Gott_dem_Abraham_verheissen.mp3
@@ -27,50 +27,50 @@ dum.mp3
 # 2/15: 15-2-Frohe_Hirten_eilt.mp3 0:00 3:26
 
 # 16-2-Und_das_habt_zum_Zeichen.mp3
-2/17          : 17-2-Schaut_hin_dort_liegt_im_finstern_Stall.mp3 0:00 0:45
+2/17 p53     : 17-2-Schaut_hin_dort_liegt_im_finstern_Stall.mp3 0:00 0:45
 
 # 18-2-So_geht_denn_hin.mp3
 # 19-2-Schlafe_mein_Liebster.mp3
 # 20-2-Und_alsobald_war_da_bei_dem_Engel.mp3
-2/20 3-4      : 20-2-Und_alsobald_war_da_bei_dem_Engel.mp3 0:08.2 0:14
-2/21          : 21-2-Ehre_sei_Gott_in_der_Hohe.mp3 0:00 3:01
+2/20 p61 3-4  : 20-2-Und_alsobald_war_da_bei_dem_Engel.mp3 0:08.2 0:14
+2/21 p61      : 21-2-Ehre_sei_Gott_in_der_Hohe.mp3 0:00 3:01
 
 # 22-2-So_recht_ihr_Engel.mp3
-2/23          : 23-2-Wir_singen_dir_in_deinem_Heer.mp3 0:00 1:04
+2/23 p71      : 23-2-Wir_singen_dir_in_deinem_Heer.mp3 0:00 1:04
 
-3/24  17-48   : 24-3-Herrscher_des_Himmels_erhore_das_Lallen.mp3 0:17 1:00
-3/24  65-96   : 24-3-Herrscher_des_Himmels_erhore_das_Lallen.mp3 1:17 2:03
+3/24 p74  17-48   : 24-3-Herrscher_des_Himmels_erhore_das_Lallen.mp3 0:17 1:00
+3/24 p78  65-96   : 24-3-Herrscher_des_Himmels_erhore_das_Lallen.mp3 1:17 2:03
 
 # 25-3-Und_da_die_Engel.mp3
-3/26          : 26-3-Lasset_uns_nun_gehen.mp3 0:00 0:53
+3/26 p81      : 26-3-Lasset_uns_nun_gehen.mp3 0:00 0:53
 # 27-3-Er_hat_sein_Volk_getrost'.mp3
-3/28          : 28-3-Dies_hat_er_alles_uns_getan.mp3 0:00 0:49
+3/28 p85      : 28-3-Dies_hat_er_alles_uns_getan.mp3 0:00 0:49
 # 29-3-Herr_dein_Mitleid.mp3
 # 3/30 30-3-Und_sie_kamen_eilend.mp3
 # 31-3-Schliesse_mein_Herze.mp3
 # 32-3-Ja_ja_mein_Herz.mp3
-3/33          : 33-3-Ich_will_dich_mit_Fleiss_bewahren.mp3 0:00 1:05
+3/33 p104     : 33-3-Ich_will_dich_mit_Fleiss_bewahren.mp3 0:00 1:05
 # 34-3-Und_die_Hirten_kehrten_wieder_um.mp3
-3/35          : 35-3-Seid_froh_dieweil.mp3 0:00 0:56
+3/35 p106      : 35-3-Seid_froh_dieweil.mp3 0:00 0:56
 3/24r  17-48   : 36-3-Herrscher_des_Himmels_erhore_das_Lallen.mp3 0:18 1:03
 3/24r  65-96   : 36-3-Herrscher_des_Himmels_erhore_das_Lallen.mp3 1:20 2:09
 
-4/36   25- 80  : 37-4-Coro_Fallt_Mit_Danken*.mp3 0:30 1:55
-4/36   97-120  : 37-4-Coro_Fallt_Mit_Danken*.mp3 2:14 2:51
-4/36  137-160  : 37-4-Coro_Fallt_Mit_Danken*.mp3 3:12 3:48
-4/36  161-224  : 37-4-Coro_Fallt_Mit_Danken*.mp3 3:48 5:23
+4/36 p108  25- 80  : 37-4-Coro_Fallt_Mit_Danken*.mp3 0:30 1:55
+4/36 p113  97-120  : 37-4-Coro_Fallt_Mit_Danken*.mp3 2:14 2:51
+4/36 p115 137-160  : 37-4-Coro_Fallt_Mit_Danken*.mp3 3:12 3:48
+4/36 p117 161-224  : 37-4-Coro_Fallt_Mit_Danken*.mp3 3:48 5:23
 
-4/42   5-32 : 43-4-Choral_Jesus_Richte_Mein_Beginnen.mp3 0:08 1:27
-4/42  37-49 : 43-4-Choral_Jesus_Richte_Mein_Beginnen.mp3 1:33 2:11
+4/42 p142  5-32 : 43-4-Choral_Jesus_Richte_Mein_Beginnen.mp3 0:08 1:27
+4/42 p143 37-49 : 43-4-Choral_Jesus_Richte_Mein_Beginnen.mp3 1:33 2:11
 
 
-5/43   17- 54 : 44-5-Coro-Ehre_sei_dir_Gott_gesungen.mp3 0:28 1:45
-5/43   58- 75 : 44-5-Coro-Ehre_sei_dir_Gott_gesungen.mp3 1:49 2:27
-5/43   76- 98 : 44-5-Coro-Ehre_sei_dir_Gott_gesungen.mp3 2:25 3:12
-5/43   98-126 : 44-5-Coro-Ehre_sei_dir_Gott_gesungen.mp3 3:10 4:10
-5/43r  17- 54 : 44-5-Coro-Ehre_sei_dir_Gott_gesungen.mp3 4:40 5:55
-5/43r  58- 75 : 44-5-Coro-Ehre_sei_dir_Gott_gesungen.mp3 6:00 6:38
-5/43r  76- 98 : 44-5-Coro-Ehre_sei_dir_Gott_gesungen.mp3 6:35 7:26
+5/43  p146   17- 54 : 44-5-Coro-Ehre_sei_dir_Gott_gesungen.mp3 0:28 1:45
+5/43  p151   58- 75 : 44-5-Coro-Ehre_sei_dir_Gott_gesungen.mp3 1:49 2:27
+5/43  p153   76- 98 : 44-5-Coro-Ehre_sei_dir_Gott_gesungen.mp3 2:25 3:12
+5/43  p156   98-126 : 44-5-Coro-Ehre_sei_dir_Gott_gesungen.mp3 3:10 4:10
+5/43r p146   17- 54 : 44-5-Coro-Ehre_sei_dir_Gott_gesungen.mp3 4:40 5:55
+5/43r p151   58- 75 : 44-5-Coro-Ehre_sei_dir_Gott_gesungen.mp3 6:00 6:38
+5/43r p153   76- 98 : 44-5-Coro-Ehre_sei_dir_Gott_gesungen.mp3 6:35 7:26
 
 # 45-5-Da_Jesus_geboren_war.mp3
 5/45    1- 28 : 46-5-Coro_Recitativo-Wo_ist_der_neugeborene_Konig_der_Juden.mp3 0:00 1:11
@@ -85,14 +85,14 @@ dum.mp3
 # 5/51  80-170 : 52-5-Aria_Terzetto-Ach_wenn_wird_Zeit_erscheinen.mp3 2:18 4:58
 
 # 53-5-Mein_Liebster_herrschet_schon.mp3
-5/53          : 54-5-Choral-Zwar_ist_solche_Herzensstube.mp3 0:00 0:54
+5/53 p187     : 54-5-Choral-Zwar_ist_solche_Herzensstube.mp3 0:00 0:54
 
 
-6/54  48-116  : 55-6-Coro-Herr_wenn_die_stolzen_Feinde_schnauben.mp3 0:51 2:14
-6/54 120-160  : 55-6-Coro-Herr_wenn_die_stolzen_Feinde_schnauben.mp3 2:17 3:04
-6/54 164-184  : 55-6-Coro-Herr_wenn_die_stolzen_Feinde_schnauben.mp3 3:05 3:31
-6/54 185-240  : 55-6-Coro-Herr_wenn_die_stolzen_Feinde_schnauben.mp3 3:31 4:38
-
-6/59  1-14    : 60-6-Choral-Ich_steh_an_deiner_Krippen_hier.mp3 0:00 1:07
-
-6/64  12-57   : 65-6-Chora_l-_Nun_seid_ihr_wohl_gerochen.mp3 0:27 2:34
+6/54 p189  48-116  : 55-6-Coro-Herr_wenn_die_stolzen_*.mp3 0:51 2:14
+6/54 p194 120-160  : 55-6-Coro-Herr_wenn_die_stolzen_*.mp3 2:17 3:04
+6/54 p198 164-184  : 55-6-Coro-Herr_wenn_die_stolzen_*.mp3 3:05 3:31
+6/54 p200 185-240  : 55-6-Coro-Herr_wenn_die_stolzen_*.mp3 3:31 4:38
+          
+6/59 p214  1-14    : 60-6-Choral-Ich_steh_an_deiner_Krippen_hier.mp3 0:00 1:07
+          
+6/64 p228  12-57   : 65-6-Chora_l-_Nun_seid_ihr_wohl_gerochen.mp3 0:27 2:34

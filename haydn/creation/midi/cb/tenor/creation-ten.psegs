@@ -37,5 +37,4 @@ dum.midi
 35 p204  1 -  9 : 33SING_ten.midi 0:02,0:29
 35 p205 10 - 35 : 33SING_ten.midi 0:29,1:49
 35 p210 40 - 60 : 33SING_ten.midi 1:56,3:03
-35 p215 64 - 65 : 33SING_ten.midi 3:08,3:18
-35 p216 68 - 83 : 33SING_ten.midi 3:21,4:12
+35 p215 64 - 68 : 33SING_ten.midi 3:08,4:12
