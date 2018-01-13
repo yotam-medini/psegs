@@ -1,0 +1,38 @@
+dum.midi
+
+ 3  p9   79 -  86  : 03-noten.midi 0:00,0:17
+ 3  p10  94 - 138  : 03-noten.midi 0:25,2:05
+ 3  p14 139 - 134  : 03-noten.midi 2:04,2:38
+        
+ 6  p18  19 -  33  : 06-noten.midi 0:25,1:22
+
+# 9 skipped for collegium 2017/December
+# 09-noten.midi
+
+14  p40   1 -  54  : 14-noten.midi 0:00,2:43
+       
+18  p53  11 -  24  : 18-noten.midi 0:22,1:05
+18  p54  26 -  75  : 18-noten.midi 1:05,3:22
+18  p60  75 - 117  : 18-noten.midi 3:22,4:59
+18  p67 117 - 137  : 18-noten.midi 4:59,5:45
+
+18r p53   11 -  24 : 18-noten.midi 0:22,1:05
+18r p54   26 -  75 : 18-noten.midi 1:05,3:22
+18r p60   75 - 117 : 18-noten.midi 3:22,4:59
+18r p67  117 - 137 : 18-noten.midi 4:59,5:45
+
+20  p77   27 - 37  : 20-noten.midi 0:18,0:49
+20  p79   39 - 47  : 20-noten.midi 0:48,1:14
+
+24  p97   97 - 124 : 24-noten.midi 0:00,0:51
+24  p99  127 - 150 : 24-noten.midi 0:51,1:38
+24  p100 152 - 175 : 24-noten.midi 1:38,2:23
+
+25  p105  48 - 67  : 25-noten.midi 0:11,1:14
+25  p106  68 - 99  : 25-noten.midi 1:13,2:47
+
+# 27 skipped for collegium 2017/December
+# 27-noten.midi
+
+31  p129  1 - 14   : 28-noten.midi 0:00,0:42
+31  p132 25 - 74   : 28-noten.midi 1:02,3:13

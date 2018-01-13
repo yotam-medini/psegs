@@ -1,0 +1,68 @@
+dum.mp3
+# mpvsp.py 1 1.06
+
+1 Kyrie p2   1 -  4 : 01-Kyrie_eleison.mp3 0:02 0:39
+1 Kyrie p3  30 - 72 : 01-Kyrie_eleison.mp3 2:19 5:11
+1 Kyrie p10 81 -126 : 01-Kyrie_eleison.mp3 5:42 8:51
+
+3 Kyrie p26  1 - 43 : 03-Kyrie_eleison.mp3 0:00 2:38
+3 Kyrie p31 44 - 59 : 03-Kyrie_eleison.mp3 2:36 3:40
+
+4a Gloria p34  24 - 33 : 04-Gloria_in_excelsis.mp3 0:23 0:33
+4a Gloria p35  41 - 65 : 04-Gloria_in_excelsis.mp3 0:39 1:06
+4a Gloria p38  69 - 83 : 04-Gloria_in_excelsis.mp3 1:06 1:23
+4a Gloria p39  87 -100 : 04-Gloria_in_excelsis.mp3 1:23 1:42
+
+4b Et in terra pax p41  101 - 113 : 05-Et_in_terra_pax.mp3 0:00 0:47
+4b Et in terra pax p44  127 - 147 : 05-Et_in_terra_pax.mp3 1:30 2:48
+4b Et in terra pax p48  150 - 160 : 05-Et_in_terra_pax.mp3 2:55 3:33
+4b Et in terra pax p50  162 - 176 : 05-Et_in_terra_pax.mp3 3:36 4:37
+
+6 Gratias agimus tibi p59   1 - 20 : 07-Gratias_agimus_tibi.mp3 0:00 1:13
+6 Gratias agimus tibi p59  21 - 46 : 07-Gratias_agimus_tibi.mp3 1:13 2:51
+
+7b Qui-tollis p75  96 - 145 : 09-Qui_tollis_peccata_mundi.mp3 0:00 3:25
+
+9b Cum Sancri Spiritu p95  128 - 164 : 12-Cum_Sancto_Spiritu.mp3 0:00 1:02
+9b Cum Sancri Spiritu p100 164 - 191 : 12-Cum_Sancto_Spiritu.mp3 1:02 1:50
+9b Cum Sancri Spiritu p105 195 - 208 : 12-Cum_Sancto_Spiritu.mp3 1:54 2:20
+9b Cum Sancri Spiritu p108 213 - 255 : 12-Cum_Sancto_Spiritu.mp3 2:20 3:43
+
+10 Credo p115  1 - 45 : 13-Credo_in_Unum_Deum.mp3 0:00 2:29
+
+11 Patrem omnipotentem p121  1 - 44 : 14-Patrem_Omnipotentem.mp3 0:00 0:55
+11 Patrem omnipotentem p126 37 - 44 : 14-Patrem_Omnipotentem.mp3 0:55 1:49
+
+13 Et incarnatus est p139   4 - 20 : 16-Et_Incarnatus_Est.mp3 0:12 1:20
+13 Et incarnatus est p140  23 - 39 : 16-Et_Incarnatus_Est.mp3 1:25 2:35
+13 Et incarnatus est p142  42 - 49 : 16-Et_Incarnatus_Est.mp3 2:42 3:23
+
+14 Crucufixus p143   5 - 10 : 17-Crucifixus.mp3 0:14 0:35
+14 Crucufixus p144  16 - 20 : 17-Crucifixus.mp3 0:49 1:11
+14 Crucufixus p145  23 - 41 : 17-Crucifixus.mp3 1:10 2:23
+14 Crucufixus p147  44 - 54 : 17-Crucifixus.mp3 2:23 3:11
+
+15 Et resurrexit p148   1 -   3 : 18-Et_Resurrexit.mp3 0:00 0:05
+15 Et resurrexit p148   9 -  34 : 18-Et_Resurrexit.mp3 0:14 1:00
+15 Et resurrexit p154  50 -  66 : 18-Et_Resurrexit.mp3 1:23 1:56
+15 Et resurrexit p157  86 - 111 : 18-Et_Resurrexit.mp3 2:26 3:16
+
+17a Confiteor  p170    5 -  55 : 20-Confiteor.mp3 0:00 1:17
+17a Confiteor  p174   58 -  88 : 20-Confiteor.mp3 1:12 1:58
+17a Confiteor  p177   92 - 123 : 20-Confiteor.mp3 1:56 2:44
+17b Et expecto p180  123 - 137 : 20-Confiteor.mp3 2:44 3:29
+17b Et expecto p180  146 - 137 : 20-Confiteor.mp3 3:29 4:00
+17b Et expecto p181  137 - 155 : 21-Et_Exspecto.mp3 0:00 0:12
+17b Et expecto p182  163 - 199 : 21-Et_Exspecto.mp3 0:17 1:02
+17b Et expecto p187  207 - 251 : 21-Et_Exspecto.mp3 1:10 2:05
+
+18a Sanctus          p192    1 -  48 : 22-Sanctus.mp3 0:00 3:03
+18b Pleni subt coeli p199   48 - 119 : 22-Sanctus.mp3 3:02 4:13
+18b Pleni subt coeli p206  125 - 168 : 22-Sanctus.mp3 4:13 5:05
+
+19 Osanna p210   1 -  14 : 23-Hosanna.mp3 0:00 0:15
+19 Osanna p210  20 - 116 : 23-Hosanna.mp3 0:15 1:54
+
+23 Donna nobis pacem  p237  1 -46 : 26-Dona_Nobis_Pacem.mp3 0:00 2:50
+
+
