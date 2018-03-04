@@ -23,10 +23,10 @@ dum.mp3
 
 7b Qui-tollis p75  96 - 145 : 09-Qui_tollis_peccata_mundi.mp3 0:00 3:25
 
-9b Cum Sancri Spiritu p95  128 - 164 : 12-Cum_Sancto_Spiritu.mp3 0:00 1:02
-9b Cum Sancri Spiritu p100 164 - 191 : 12-Cum_Sancto_Spiritu.mp3 1:02 1:50
-9b Cum Sancri Spiritu p105 195 - 208 : 12-Cum_Sancto_Spiritu.mp3 1:54 2:20
-9b Cum Sancri Spiritu p108 213 - 255 : 12-Cum_Sancto_Spiritu.mp3 2:20 3:43
+9b Cum Sancto Spiritu p95  128 - 164 : 12-Cum_Sancto_Spiritu.mp3 0:00 1:02
+9b Cum Sancto Spiritu p100 164 - 191 : 12-Cum_Sancto_Spiritu.mp3 1:02 1:50
+9b Cum Sancto Spiritu p105 195 - 208 : 12-Cum_Sancto_Spiritu.mp3 1:54 2:20
+9b Cum Sancto Spiritu p108 213 - 255 : 12-Cum_Sancto_Spiritu.mp3 2:20 3:43
 
 10 Credo p115  1 - 45 : 13-Credo_in_Unum_Deum.mp3 0:00 2:29
 
@@ -51,9 +51,9 @@ dum.mp3
 17a Confiteor  p174   58 -  88 : 20-Confiteor.mp3 1:12 1:58
 17a Confiteor  p177   92 - 123 : 20-Confiteor.mp3 1:56 2:44
 17b Et expecto p180  123 - 137 : 20-Confiteor.mp3 2:44 3:29
-17b Et expecto p180  146 - 137 : 20-Confiteor.mp3 3:29 4:00
-17b Et expecto p181  137 - 155 : 21-Et_Exspecto.mp3 0:00 0:12
-17b Et expecto p182  163 - 199 : 21-Et_Exspecto.mp3 0:17 1:02
+17b Et expecto p181  137 - 146 : 20-Confiteor.mp3 3:29 4:00
+17b Et expecto p182  146 - 155 : 21-Et_Exspecto.mp3 0:00 0:12
+17b Et expecto p183  163 - 199 : 21-Et_Exspecto.mp3 0:17 1:02
 17b Et expecto p187  207 - 251 : 21-Et_Exspecto.mp3 1:10 2:05
 
 18a Sanctus          p192    1 -  48 : 22-Sanctus.mp3 0:00 3:03
