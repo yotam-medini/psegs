@@ -1,0 +1,77 @@
+#!/bin/bash
+
+function wg () {
+    wget http://www.dycom-il.com/n/${1}
+}
+
+wg nevsky-2-bas1.mid
+wg nevsky-2-ten1.mid
+wg nevsky-2-alt.mid
+wg nevsky-2.mid
+wg nevsky-2-bas2.mid
+wg nevsky-2-ten2.mid
+wg nevsky-3a-bas1.mid
+wg nevsky-3a-ten1.mid
+wg nevsky-3a-alt.mid
+wg nevsky-3a.mid
+wg nevsky-3a-bas2.mid
+wg nevsky-3a-ten2.mid
+wg nevsky-3a-bas3.mid
+wg nevsky-3b-bas1.mid
+wg nevsky-3b-ten1.mid
+wg nevsky-3b-alt.mid
+wg nevsky-3b.mid
+wg nevsky-3b-bas2.mid
+wg nevsky-3b-ten2.mid
+wg nevsky-3b-bas3.mid
+wg nevsky-4-bas1.mid
+wg nevsky-4-ten.mid
+wg nevsky-4-alt.mid
+wg nevsky-4-sop.mid
+wg nevsky-4.mid
+wg nevsky-4-bas2.mid
+wg nevsky-5a-bas1.mid
+wg nevsky-5a-ten1.mid
+wg nevsky-5a-alt.mid
+wg nevsky-5a.mid
+wg nevsky-5a-bas2.mid
+wg nevsky-5a-ten2.mid
+wg nevsky-5a-bas3.mid
+wg nevsky-5a-ten3.mid
+wg nevsky-5b-bas1.mid
+wg nevsky-5b-ten1.mid
+wg nevsky-5b-alt.mid
+wg nevsky-5b.mid
+wg nevsky-5b-bas2.mid
+wg nevsky-5b-ten2.mid
+wg nevsky-5b-bas3.mid
+wg nevsky-5b-ten3.mid
+wg nevsky-5c-bas1.mid
+wg nevsky-5c-ten1.mid
+wg nevsky-5c-alt.mid
+wg nevsky-5c.mid
+wg nevsky-5c-bas2.mid
+wg nevsky-5c-ten2.mid
+wg nevsky-5c-bas3.mid
+wg nevsky-5c-ten3.mid
+wg nevsky-5d-bas.mid
+wg nevsky-5d-ten.mid
+wg nevsky-5d-alt.mid
+wg nevsky-5d-sop.mid
+wg nevsky-5d.mid
+wg nevsky-7a-bas.mid
+wg nevsky-7a-ten.mid
+wg nevsky-7a-alt1.mid
+wg nevsky-7a-sop1.mid
+wg nevsky-7a.mid
+wg nevsky-7a-alt2.mid
+wg nevsky-7a-sop2.mid
+wg nevsky-7b-bas1.mid
+wg nevsky-7b-ten1.mid
+wg nevsky-7b-alt1.mid
+wg nevsky-7b-sop1.mid
+wg nevsky-7b.mid
+wg nevsky-7b-bas2.mid
+wg nevsky-7b-ten2.mid
+wg nevsky-7b-alt2.mid
+wg nevsky-7b-sop2.mid
