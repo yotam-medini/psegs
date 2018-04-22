@@ -1,0 +1,69 @@
+dum.mp3
+# mpvsp.py 1 1.06
+
+1 Kyrie p2   1 -  4 : 01a-kyrie-noten.mp3 0:00 0:40
+1 Kyrie p3  30 - 72 : 01b-kyrie-noten.mp3 0:00 3:11
+1 Kyrie p10 81 -126 : 01c-kyrie-noten.mp3 0:04 3:25
+
+3 Kyrie p26  1 - 43 : 03-kyrie-noten.mp3 0:13 2:48
+3 Kyrie p31 44 - 59 : 03-kyrie-noten.mp3 2:47 3:51
+
+4a Gloria p34  24 - 33 : 04a-gloria-noten.mp3 0:27 0:39
+4a Gloria p35  41 - 65 : 04a-gloria-noten.mp3 0:44 1:11
+4a Gloria p38  69 - 83 : 04a-gloria-noten.mp3 1:11 1:30
+4a Gloria p39  87 -100 : u04-noten.mp3 1:31 1:50
+
+4b Et in terra pax p41  101 - 113 : 04b-et_in_terra_pax-noten.mp3 0:04 0:48
+4b Et in terra pax p44  127 - 147 : 04b-et_in_terra_pax-noten.mp3 1:27 2:39
+4b Et in terra pax p48  150 - 160 : 04b-et_in_terra_pax-noten.mp3 2:46 3:21
+4b Et in terra pax p50  162 - 176 : 04b-et_in_terra_pax-noten.mp3 3:23 4:18
+
+6 Gratias agimus tibi p59   1 - 20 : 06-gratias_agimus-noten.mp3 0:15 1:30
+6 Gratias agimus tibi p59  21 - 46 : 06-gratias_agimus-noten.mp3 1:30  3:11
+
+7b Qui-tollis p75  96 - 145 : 07-qui_tollis-noten.mp3 0:16 3:05
+
+9b Cum Sancto Spiritu p95  128 - 164 : u09-noten.mp3 0:02 1:20
+9b Cum Sancto Spiritu p100 164 - 191 : u09-noten.mp3 1:20 2:12
+9b Cum Sancto Spiritu p105 195 - 208 : u09-noten.mp3 2:16 2:44
+9b Cum Sancto Spiritu p108 213 - 255 : u09-noten.mp3 2:48 4:16
+
+10 Credo p115  1 - 45 : u10-credo-noten.mp3 0:00 2:23
+
+11 Patrem omniponotentem p121  1 - 44 : 11-patrem_omniponotentem-noten.mp3 0:08 1:11
+11 Patrem omniponotentem p126 44 - 84 : 11-patrem_omniponotentem-noten.mp3 1:11 2:11
+
+13 Et incarnatus est p139   4 - 20 : 13-et_incarnatus_est-noten.mp3 0:12 1:13
+13 Et incarnatus est p140  23 - 39 : 13-et_incarnatus_est-noten.mp3 1:17 2:20
+13 Et incarnatus est p142  42 - 49 : 13-et_incarnatus_est-noten.mp3 2:26 3:03
+
+14 Crucufixus p143   5 - 10 : 14-crucifixus-noten.mp3 0:14 0:35
+14 Crucufixus p144  16 - 20 : 14-crucifixus-noten.mp3 0:49 1:08
+14 Crucufixus p145  23 - 41 : 14-crucifixus-noten.mp3 1:10 2:18
+14 Crucufixus p147  44 - 54 : u14-crucifixus-noten.mp3 2:22 3:06
+
+15 Et resurrexit p148   1 -   3 : 15-et_resurrexit-noten.mp3 0:06 0:14
+15 Et resurrexit p148   9 -  34 : 15-et_resurrexit-noten.mp3 0:25 1:13
+15 Et resurrexit p154  50 -  66 : 15-et_resurrexit-noten.mp3 1:40 2:14
+15 Et resurrexit p157  86 - 111 : 15-et_resurrexit-noten.mp3 2:48 3:41
+
+17a Confiteor  p170    5 -  55 : 17a-Confiteor-noten.mp3 0:18 1:43
+17a Confiteor  p174   58 -  88 : 17a-Confiteor-noten.mp3 1:43 2:35
+17a Confiteor  p177   92 - 123 : 17a-Confiteor-noten.mp3 2:35 3:34
+17b Et expecto p180  123 - 137 : 17a-Confiteor-noten.mp3 3:34 4:31
+17b Et expecto p181  137 - 146 : u17-confiteor-noten.mp3 4:31 5:10
+17b Et expecto p182  146 - 155 : 17b-Et_Exspecto-noten.mp3 0:12 0:26
+17b Et expecto p183  163 - 199 : 17b-Et_Exspecto-noten.mp3 0:34 1:24
+17b Et expecto p187  207 - 251 : 17b-Et_Exspecto-noten.mp3 1:32 2:35
+
+18a Sanctus          p192    1 -  48 : u18-sanctus-noten.mp3 0:00 3:17
+18b Pleni subt coeli p199   48 - 119 : 18b-Pleni-subnt-coeli-noten.mp3 0:11 1:33
+18b Pleni subt coeli p206  125 - 168 : 18b-Pleni-subnt-coeli-noten.mp3 1:31 2:29
+
+# 19 Osanna T1 p210   1 -  14 : 19-osanna-noten1.mp3 0:00 0:20
+# 19 Osanna T1 p213  20 - 116 : 19-osanna-noten1.mp3 0:23 2:11
+
+19 Osanna T2 p210   1 -  14 : 19-osanna-noten2.mp3 0:00 0:20
+19 Osanna T2 p213  20 - 116 : 19-osanna-noten2.mp3 0:20 2:11
+
+23 Donna nobis pacem  p237  1 -46 : 23-dona_nobis_pacem-noten.mp3 0:31 4:01
