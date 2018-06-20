@@ -62,7 +62,10 @@ dum.midi
 # 19 Osanna T1 p210   1 -  14 : 19-osanna-ten1.midi 0:00 0:20
 # 19 Osanna T1 p213  20 - 116 : 19-osanna-ten1.midi 0:23 2:11
 
-19 Osanna T2 p210   1 -  14 : 19-osanna-ten2.midi 0:00 0:20
-19 Osanna T2 p213  20 - 116 : 19-osanna-ten2.midi 0:20 2:11
+# 19 Osanna T2 p210   1 -  14 : 19-OSANNA_ten2.midi 0:00,0:20
+# 19 Osanna T2 p213  20 - 116 : 19-OSANNA_ten2.midi 0:20,1:51
+19 Osanna T2 p210   1 -  14 : 19-OSANNA_ten2.midi 0:00,0:14
+19 Osanna T1 p213  15 -  37 : 19-OSANNA_ten1.midi 0:14,0:35.9
+19 Osanna T3 p216  38 - 116 : 19-OSANNA_ten2.midi 0:36,1:51
 
 23 Donna nobis pacem  p237  1 -46 : 23-dona_nobis_pacem-ten.midi 0:31 4:01
