@@ -1,0 +1,26 @@
+# dum.mp3
+
+2-07  66- 74  p69 : 16-2-A_Votre_Bras_Vainqueur_*.mp3 1:41 2:05
+2-07 115-126  p70 : 16-2-A_Votre_Bras_Vainqueur_*.mp3 2:47 3:09
+2-07 188-208  p73 : 16-2-A_Votre_Bras_Vainqueur_*.mp3 4:23 4:53
+2-07 214-246  p74 : 16-2-A_Votre_Bras_Vainqueur_*.mp3 4:56 5:43
+
+3-05  26- 60  p90 : 21-3-David_Peut_Attendre_*.mp3 4:40 5:29
+
+4-04  48- 53 p101 : 26-4-Jamais_Souffert_*.mp3 2:00 2:34
+4-04 143-151 p104 : 26-4-Jamais_Souffert_*.mp3 6:24 7:05
+
+5-03   8- 10 p118 : 33-5-Que_Vois-je_Quoi_*.mp3 0:25 0:52
+5-03  21- 23 p119 : 33-5-Que_Vois-je_Quoi_*.mp3 1:21 1:46
+5-03 109-116 p121 : 33-5-Que_Vois-je_Quoi_*.mp3 4:55 5:54
+
+# Following misses last page addition
+5-04   1- 17 p124 : 34-5-Des_Philistins.mp3 0:00 0:23
+
+5-06   8- 14 p126 : 35-5-Quon_Sauve_Jonathas.mp3 3:00 3:38
+5-06  43- 49 p127 : 35-5-Quon_Sauve_Jonathas.mp3 4:32 5:07
+5-06  58- 86 p128 : 35-5-Quon_Sauve_Jonathas.mp3 5:12 6:55
+
+# mplayseg.py ../itay/page143bar93.mp3 0:04 0:41
+5-10  92-104 p143 : 38-5-Des_Triomphants.mp3 1:55 2:19
+5-10 135-169 p148 : 38-5-Des_Triomphants.mp3 2:50 3:52

@@ -18,6 +18,10 @@
 # Following misses last page addition
 5-04   1- 17 p124 : 32-5-4-Victoire_Victoire.mp3 0:00 0:18
 
+5-06   8- 14 p126 : 33-5-5,6-Quon_sauve_Jonathas.mp3 3:00 3:26
+5-06  43- 49 p127 : 33-5-5,6-Quon_sauve_Jonathas.mp3 4:43 5:12
+5-06  58- 86 p128 : 33-5-5,6-Quon_sauve_Jonathas.mp3 5:31 7:05
+
 # mplayseg.py ../itay/page143bar93.mp3 0:04 0:41
-5-10  92-104 p148 : 36-5-10-Du_plus_grand_des_heros.mp3 1:44 2:07
+5-10  92-104 p143 : 36-5-10-Du_plus_grand_des_heros.mp3 1:44 2:07
 5-10 135-169 p148 : 36-5-10-Du_plus_grand_des_heros.mp3 2:40 3:29
