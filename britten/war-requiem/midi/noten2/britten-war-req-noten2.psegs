@@ -1,0 +1,39 @@
+# dum.midi
+
+Requiem 1 -   p1-p3   : 1aREQUIEM-noten2.midi 0:00-1:14
+Requiem 2 -   p4-p6   : 1aREQUIEM-noten2.midi 1:29-
+Requiem 7-8 - p10-p13 : 1BREQUIEM-noten2.midi 0:00-
+
+Kyrie 16 p19 : 1CREQUIEM-noten2.midi 0:00-0:35
+
+Dies Irae 17  	p20-p21 : 2ADIES_IRAE-noten2.midi 0:00-0:23
+Dies Irae 19  	p22     : 2ADIES_IRAE-noten2.midi 0:45-
+Dies Irae 21  	p24-p25 : 2BDIES_IRAE-noten2.midi 0:00-
+Dies Irae 23  	p26-p27 : 2CDIES_IRAE-noten2.midi 0:00-0:29
+Dies Irae 30  	p33-p34 : 2DDIES_IRAE-noten2.midi 0:00-0:44
+Dies Irae 31-32 p35-p37 : 2DDIES_IRAE-noten2.midi 0:57-
+Dies Irae 45-48 p50-p56 : 2FDIES_IRAE-noten2.midi 0:00-
+Dies Irae 52-53 p59-p62 : 2GDIES_IRAE-noten2.midi 0:00-1:21
+Dies Irae 54-56 p62-p66 : 2GDIES_IRAE-noten2.midi 1:21-
+Dies Irae 57    p67-p68 : 2HDIES_IRAE-noten2.midi 0:00-0:23
+Dies Irae 58-59 p69-p70 : 2HDIES_IRAE-noten2.midi 0:36-1:17
+Dies Irae 60    p71     : 2HDIES_IRAE-noten2.midi 1:26-
+
+Offertorium 63-68 p75-p84  : 3AOFFER-noten2.midi 0:00-
+Offertorium 79-83 p95-p102 : 3BOFFER-noten2.midi 0:00-
+
+Sanctus 85-86 p104-p108 : 4SANCTUS-noten2.midi 0:00-0:40
+Sanctus 87-88 p108-p113 : 4SANCTUS-noten2.midi 0:40-1:52
+Sanctus 89-91 p113-p117 : 4SANCTUS-noten2.midi 1:48-3:40
+Sanctus 92    p117-p120 : 4SANCTUS-noten2.midi 3:40-
+
+Agnus Dei 97-100 p126-p129 : 5AGNUS_DEi.midi 0:00-
+
+Libera Me 100-104 p130-p137 : 6ALIBERA_ME-noten2.midi 0:00-2:47
+Libera Me 105-111 p137-p149 : 6ALIBERA_ME-noten2.midi 2:47-5:10
+Libera Me 113-115 p150-p153 : 6ALIBERA_ME-noten2.midi 5:13-5:51
+Libera Me 116-117 p154-p156 : 6ALIBERA_ME-noten2.midi 5:51-
+
+Libera Me 130-135 p166-p176 : 6BLIBERA_ME-noten2.midi 0:00-1:42
+Libera Me 135-136 p176-p178 : 6BLIBERA_ME-noten2.midi 1:42-
+Libera Me 137 p179          : 
