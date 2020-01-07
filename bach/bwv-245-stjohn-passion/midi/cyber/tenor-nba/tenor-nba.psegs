@@ -1,6 +1,7 @@
 dum.midi
 
-01 Herr_Unser           : 01.midi 0:00,5:27
+01 Herr_Unser 19-58     : 01.midi 0:00-2:51
+01 Herr_Unser 58-95     : 01.midi 2:50-5:27
 02b Jesum Nazareth	: 02b.midi 0:00,0:12
 02d Jesum Nazareth	: 02d.midi 0:00,0:14
 03 O GroAe_Lieb		: 03.midi 0:00,0:40
