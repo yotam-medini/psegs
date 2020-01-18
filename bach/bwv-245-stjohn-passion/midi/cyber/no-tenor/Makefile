@@ -15,7 +15,7 @@ TARGETS := $(shell cd ../tenor-nba; ls *.midi)
 	@false
 	readlink ../tenor-nba/${@}
 	midiconv.py -tv 3 0 0 \
-	    $(readlink ../tenor-nba/${@} | sed -e s/BACH/Bach/ -e s/_ten//) \
+	    $$(readlink ../tenor-nba/${@} | sed -e s/BACH/Bach/ -e s/_ten//) \
 	    $@
 
 all: ${TARGETS}
