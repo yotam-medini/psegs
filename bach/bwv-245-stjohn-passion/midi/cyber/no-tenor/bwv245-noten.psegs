@@ -1,0 +1,49 @@
+# dum.midi
+
+1   19-58 p3  : 01.midi 0:00-2:50
+1   58-95 p12 : 01.midi 2:49-5:27
+
+2b (3) p24 : 02b.midi 0:00-0:12
+2d (5) p26 : 02d.midi 0:00-0:13
+
+3 (7) p28 : 03.midi 0:00-1:18
+
+5 (9) p31 : 05.midi 0:00-0:45
+
+11 (15) p52 : 11.midi 0:03-1:26
+
+12b (17) p54 : 12b.midi 0:00-0:30
+
+14 (20) p64 : 14.midi 0:00-
+
+15c (21) p66 : 15.midi 0:02-
+
+16b (23) p69 : 16b.midi 0:00-
+
+16d (25) p76 : 16d.midi 0:00-
+
+17 (27) p84 : 17.midi 0:05-
+
+18b (29) p88 : 18b.midi 0:00-
+
+21b  (34) p 102 : 21b.midi 0:00-
+
+21d (36) p107 : 21d.midi 0:02-
+
+21d-c-Kreuzige.mp3
+21f-c-Wir_Haben_Ein_Gesetz_Und_Nach_Dem_Gesetz.mp3
+22-c-Durch_Dein_Gefangnis_Gottes_Sohn.mp3
+23b-c-Lasset_Du_Diesen_Los_So_Bist_Du_Des_Kaisers_Freund_Nicht.mp3
+23d-c-Weg_Mit_Dem_Kreuzige_Ihn.mp3
+23f-c-Wir_Haben_Keinen_Konig.mp3
+24-a-Mit_c-Eilt_Ihr_Angefocht_Nen_Seelen.mp3
+26-c-In_Meines_Herzens_Grunde_Dein_Nam.mp3
+27b-c-Lasset_Uns_Den_Nicht_Zerteilen.mp3
+28-c-Er_Nahm_Alles_Wohl_In_Acht.mp3
+32-a-Mein_Teurer_Heiland_LaA_Dich_Fragen.mp3
+37-c-O_Hilf_Christe_Gottes_Sohn.mp3
+
+39 12- 48 p205         : 39.midi 0:22-1:48
+39 60- 72 p209         : 39.midi 2:11-4:39
+
+40 1-28 p216 : 40.midi 0:05-1:45
