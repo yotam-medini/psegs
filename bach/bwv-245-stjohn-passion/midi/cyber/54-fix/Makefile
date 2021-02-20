@@ -17,7 +17,7 @@ MIDICONV = \
 	-note 313 59 \
 	-note 343 59 \
 	-note 553 57 -note 583 54 -note 613 52 \
-	-note 827 50 -note 857 59 -note 887 47
+	-note 827 50 -note 857 59 -note 887 48
 
 Bach_SJP_54-fixed.mid:	  Bach_SJP_54.mid
 	${MIDICONV} $< $@
