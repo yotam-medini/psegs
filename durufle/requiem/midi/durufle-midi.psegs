@@ -1,0 +1,25 @@
+# dum.midi
+
+Introit 1-3 p1        	 : 1.midi 0:00-1:03
+Introit 7-10 p6       	 : 1.midi 2:05-3:01
+Kyrie -12 p10         	 : 2.midi 0:00-1:10
+Kyrie 16-18 p14       	 : 2.midi 1:50-2:51
+Domine Jesu 24-27 p19 	 : 3.midi 1:17-2:02
+Domine Jesu 28-32 p22 	 : 3.midi 2:00-2:41
+Sanctus 38-52 p37     	 : 4.midi 1:09-2:12
+# Pie Jesu               : 5.midi
+Agnus Dei 64-65 p50      : 6.midi 0:36-1:06
+Agnus Dei 67-69 p53      : 6.midi 1:21-1:44
+Agnus Dei 69-71 p55      : 6.midi 1:48-2:33
+Agnus Dei 73 p59         : 6.midi 2:46-
+
+Lux Aeterna 75 p61       : 7.midi 0:19-0:38
+Lux Aeterna 77-78 p62    : 7.midi 0:51-1:38
+Lux Aeterna 79 p64       : 7.midi 1:57-2:33
+
+Libera Me 80-84 p66      : 8.midi 0:00-1:05
+Libera Me 87-91 p70      : 8.midi 1:22-2:24
+Libera Me 92 p73         : 8.midi 2:25-2:42
+Libera Me 95-98 p75      : 8.midi 3:15-4:20
+
+In Paradisum 101-102 p79 : 9.midi 1:28-

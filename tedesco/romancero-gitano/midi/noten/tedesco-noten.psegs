@@ -1,18 +1,18 @@
 dum.midi
 
-1 Baladilla    8 -  43 : 1-noten.midi  0:14,1:22
-1 Baladilla   44 -  59 : 1-noten.midi  1:18,1:51
-1 Baladilla   60 -  77 : 1-noten.midi  1:49,2:18
-1 Baladilla   78 - 109 : 1-noten.midi  2:15,3:03
+1 Baladilla    8 -  43 : 1-noten.midi  0:14-1:22
+1 Baladilla   44 -  59 : 1-noten.midi  1:18-1:51
+1 Baladilla   60 -  77 : 1-noten.midi  1:49-2:18
+1 Baladilla   78 - 109 : 1-noten.midi  2:15-3:03
 
-2 La_Guitarra 10 - 24 : 2-noten.midi 0:20,0:55
-2 La_Guitarra 25 - 74 : 2-noten.midi 0:55,2:53
-2 La_Guitarra 78 - 82 : 2-noten.midi 2:58,3:13
+2 La_Guitarra 10 - 24 : 2-noten.midi 0:20-0:55
+2 La_Guitarra 25 - 74 : 2-noten.midi 0:55-2:53
+2 La_Guitarra 78 - 82 : 2-noten.midi 2:58-3:13
 
-3 Punal  9 - 19 : 3-noten.midi 0:12,0:29
-3 Punal 25 - 35 : 3-noten.midi 0:38,0:55
-3 Punal 44 - 58 : 3-noten.midi 1:07,1:31
-3 Punal 64 - 76 : 3-noten.midi 1:40,
+3 Punal  9 - 19 : 3-noten.midi 0:12-0:29
+3 Punal 25 - 35 : 3-noten.midi 0:38-0:55
+3 Punal 44 - 58 : 3-noten.midi 1:07-1:31
+3 Punal 64 - 76 : 3-noten.midi 1:40-
 
-4 Procesion  52 -  80 : 4-noten.midi 1:30,3:17
-4 Procesion  88 - 120 : 4-noten.midi 3:36,5:33
+4 Procesion  52 -  80 : 4-noten.midi 1:30-3:17
+4 Procesion  88 - 120 : 4-noten.midi 3:36-5:33

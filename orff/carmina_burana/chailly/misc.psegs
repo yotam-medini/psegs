@@ -1,0 +1,35 @@
+# dum.mp3
+
+2a p10 : 01-*.mp3 2:33 2:46
+2a p10 : 01-*.mp3 3:24 3:36
+2c p10 : 01-*.mp3 4:14 4:27
+
+5a iam-iam p29 : 03-*.mp3 0:30 0:47
+5b il-li   p33 : 03-*.mp3 1:22 1:40
+5c si-mus  p37 : 03-*.mp3 2:14 2:32
+
+7a p46 : 04-Tanz.mp3 2:40 2:51
+7b p52 : 04-Tanz.mp3 4:13 4:24
+
+9a p58 : 06-Reie.mp3 2:02 2:18
+9b p63 : 06-Reie.mp3 4:09 4:26
+
+
+14a p75 : 09-*.mp3 1:32 1:52
+14b p76 : 09-*.mp3 1:54 2:13
+14c p78 : 09-*.mp3 2:22 2:30.2
+14d p79 : 09-*.mp3 2:43 2:54.1
+14e p80 : 09-*.mp3 3:10 3:38.5
+
+18a Circa mea p93 118 : 11-Circa_mea_pectora.mp3 0:23.6 0:32
+18b Circa mea p93 118 : 11-Circa_mea_pectora.mp3 1:03.6 1:12
+18c Circa mea p93 118 : 11-Circa_mea_pectora.mp3 1:43 1:51
+
+19 Si puer p95 121 : 11-Circa_mea_pectora.mp3 1:59.8 2:54
+19 fit ludus p96 121 : 11-Circa_mea_pectora.mp3 2:36 2:46
+
+20 Veni veni p97 126 : 11-Circa_mea_pectora.mp3 2:55 3:20
+
+22 Tempus p105 132 : 13-Tempus_est_iocundum.mp3 0:00 0:14
+22 Tempus p108 134 : 13-Tempus_est_iocundum.mp3 0:56 1:12
+22 Tempus p111 137 : 13-Tempus_est_iocundum.mp3 1:50 2:09
