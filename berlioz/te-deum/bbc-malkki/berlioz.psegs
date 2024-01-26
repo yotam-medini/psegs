@@ -1,33 +1,34 @@
 # dum.mp3
 
-1 Te Deum  p1  15- 44 : 1-Te_deum.mp3 0:47 1:51
-1 Te Deum  p5  45- 80 : 1-Te_deum.mp3 1:51 3:10
-1 Te Deum  p9  80- 94 : 1-Te_deum.mp3 3:09 3:51
-1 Te Deum p11  94-136 : 1-Te_deum.mp3 3:50 5:32
-1 Te Deum p16 137-157 : 1-Te_deum.mp3 5:32 6:43
+1 Te Deum      p1  15- 44 : 1-Te_deum.mp3 0:47 1:51
+1 Te Deum  p4/ p5  45- 80 : 1-Te_deum.mp3 1:51 3:10
+1 Te Deum  p8/ p9  80- 94 : 1-Te_deum.mp3 3:09 3:51
+1 Te Deum  p9/p11  94-136 : 1-Te_deum.mp3 3:50 5:32
+1 Te Deum p14/p16 137-157 : 1-Te_deum.mp3 5:32 6:43
 
-2 Tibi Omnes p21  55- 64 : 2-Tibi_omnes.mp3 2:42 3:23
-2 Tibi Omnes p23  69-113 : 2-Tibi_omnes.mp3 3:38 5:52
-2 Tibi(bass) p28 116-139 : 2-Tibi_omnes.mp3 5:52-7:10
-2 Tibi Omnes p29 140-170 : 2-Tibi_omnes.mp3 7:10 8:49.5
+2 Tibi Omnes p19/p21  55- 64 : 2-Tibi_omnes.mp3 2:40 3:23
+2 Tibi Omnes p20/p23  69-113 : 2-Tibi_omnes.mp3 3:38 5:52
+2 Tibi(bass) p25/p28 116-139 : 2-Tibi_omnes.mp3 5:52 7:10
+2 Tibi Omnes p27/p29 140-170 : 2-Tibi_omnes.mp3 7:10 8:49.5
 
-3 Dignare Domine p34 19- 69 : 3-Dignare_domine.mp3 1:11 4:27
-3 Dignare Domine p41 70- 82 : 3-Dignare_domine.mp3 4:27 5:19
-3 Dignare Domine p43 86-107 : 3-Dignare_domine.mp3 5:27.4 7:17
+3 Dignare Domine p33/p34 19- 69 : 3-Dignare_domine.mp3 1:11 4:27
+3 Dignare Domine p38/p41 70- 82 : 3-Dignare_domine.mp3 4:27 5:19
+3 Dignare Domine p40/p43 86-107 : 3-Dignare_domine.mp3 5:27.4 7:17
 
-4 Christe Rex Gloriae p46   1- 29 : 4-Christe_rex_gloriae.mp3 0:00 0:39
-4 Christe Rex Gloriae p49  30- 68 : 4-Christe_rex_gloriae.mp3 0:36 1:30
-4 Christe Rex Gloriae p54  71- 94 : 4-Christe_rex_gloriae.mp3 1:30 2:15
-4 Christe Rex Gloriae p55  95-117 : 4-Christe_rex_gloriae.mp3 2:15 2:46
-4 Christe Rex Gloriae p58 118-184 : 4-Christe_rex_gloriae.mp3 2:44 4:19
+4 Christe Rex Gloriae p43/p46   1- 29 : 4-Christe_rex_gloriae.mp3 0:00 0:39
+4 Christe Rex Gloriae p45/p49  30- 68 : 4-Christe_rex_gloriae.mp3 0:36 1:30
+4 Christe Rex Gloriae p49/p54  71- 94 : 4-Christe_rex_gloriae.mp3 1:30 2:15
+4 Christe Rex Gloriae p51/p55  95-117 : 4-Christe_rex_gloriae.mp3 2:15 2:46
+4 Christe Rex Gloriae p53/p58 118-184 : 4-Christe_rex_gloriae.mp3 2:44 4:19
 
-5 Te Ergo Quaesumus p72  97-100 : 5-Te_ergo_quaesumus.mp3 5:09 5:24
-5 Te Ergo Quaesumus p73 113-127 : 5-Te_ergo_quaesumus.mp3 5:55 7:15
+5 Te Ergo Quaesumus p66/p72  97-100 : 5-Te_ergo_quaesumus.mp3 5:09 5:24
+5 Te Ergo Quaesumus p67/p73 113-127 : 5-Te_ergo_quaesumus.mp3 5:55 7:15
 
-6 Judex Crederis p75   8- 15 : 6-Judex_crederis.mp3 0:17 0:39
-6 Judex Crederis p76  20- 54 : 6-Judex_crederis.mp3 0:36 2:08
-6 Judex Crederis p80  57- 62 : 6-Judex_crederis.mp3 2:13 2:30
-6 Judex Crederis p82  77-102 : 6-Judex_crederis.mp3 3:08 4:05
-6 Judex Crederis p86 128-178 : 6-Judex_crederis.mp3 5:02 7:00
-6 Judex Crederis p95 179-186 : 6-Judex_crederis.mp3 7:00 7:30
-6 Judex Crederis p97 188-223 : 6-Judex_crederis.mp3 7:30 9:05
+# 6 Judex Crederis p69/p75   8- 15 : 6-Judex_crederis.mp3 0:17 0:39
+# 6 Judex Crederis p70/p76  20- 54 : 6-Judex_crederis.mp3 0:36 2:08
+6 Judex Crederis p69/p75   8- 54 : 6-Judex_crederis.mp3 0:17 2:08
+6 Judex Crederis p74/p80  57- 62 : 6-Judex_crederis.mp3 2:13 2:30
+6 Judex Crederis p76/p82  77-102 : 6-Judex_crederis.mp3 3:08 4:05
+6 Judex Crederis p82/p86 128-178 : 6-Judex_crederis.mp3 5:02 7:00
+6 Judex Crederis p88/p95 179-186 : 6-Judex_crederis.mp3 7:00 7:30
+6 Judex Crederis p89/p97 188-223 : 6-Judex_crederis.mp3 7:30 9:05
