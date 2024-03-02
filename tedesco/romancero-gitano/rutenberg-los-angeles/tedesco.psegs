@@ -1,7 +1,7 @@
 dum.mp3
 
-1 Baladilla   8 -  43 : 1-Baladilla_de_los_tres_Rios.mp3 0:17 1:52
-1 Baladilla  44 -  59 : 1-Baladilla_de_los_tres_Rios.mp3 1:52 2:35
+1 Baladilla p2  8 -  43 : 1-Baladilla_de_los_tres_Rios.mp3 0:17 1:52
+1 Baladilla p5 44 -  59 : 1-Baladilla_de_los_tres_Rios.mp3 1:52 2:35
 1 Baladilla  60 -  77 : 1-Baladilla_de_los_tres_Rios.mp3 2:35 3:07
 1 Baladilla  78 - 109 : 1-Baladilla_de_los_tres_Rios.mp3 3:07 4:23
 
@@ -11,17 +11,17 @@ dum.mp3
 
 3 Punal  9 - 19 : 3-Punal.mp3 0:10 0:24
 3 Punal 25 - 35 : 3-Punal.mp3 0:30 0:44
-3 Punal 44 - 58 : 3-Punal.mp3 0:53 1:12
-3 Punal 64 - 76 : 3-Punal.mp3 1:19 1:33
+3 Punal p22 44 - 58 : 3-Punal.mp3 0:53 1:12
+3 Punal p23 64 - 76 : 3-Punal.mp3 1:19 1:33
 
-4 Procesion  52 -  80 : 4-Procesion-Paso-Saeta.mp3 2:00 4:00
-4 Procesion  88 - 120 : 4-Procesion-Paso-Saeta.mp3 4:21 6:26
+4 Procesion  p25 52 -  80 : 4-Procesion-Paso-Saeta.mp3 2:00 4:00
+4 Procesion  p20 88 - 120 : 4-Procesion-Paso-Saeta.mp3 4:21 6:26
 
 5 Memento 8 - 32 : 5-Memento.mp3 0:09 1:20
 
 # 6 Baile	 16 - 40 : 6-Baile.mp3 0:13 1:15
-6 Baile  41 - 66 : 6-Baile.mp3 0:47 1:24
-6 Baile  71 - 96 : 6-Baile.mp3 1:27 2:03
+6 Baile p38 41 - 66 : 6-Baile.mp3 0:47 1:24
+6 Baile p40 71 - 96 : 6-Baile.mp3 1:27 2:03
 
 7 Crotalo 19 - 32 : 7-Crotalo.mp3 0:20 0:41
 7 Crotalo 40 - 66 : 7-Crotalo.mp3 0:42 1:22
