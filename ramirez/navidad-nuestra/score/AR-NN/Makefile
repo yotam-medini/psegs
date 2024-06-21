@@ -74,9 +74,88 @@ p11.pdf: p11w.pdf
 LA_ANUNCIACION_PXXS = empty.pdf \
 	p04.pdf p05.pdf p06.pdf p07.pdf p08.pdf p09.pdf p10.pdf p11.pdf
 
+########################################################################
+
+p20w.pdf:
+	cpdf ${ORIG} 21 -stdout | \
+	cpdf -stdin -add-rectangle "20 792" -pos-left "420 0" \
+	  -color white -o $@
+p20.pdf: p20w.pdf
+	pdf-crop.sh $< $@ 1275 1651 0 0
+
+
+p21w.pdf:
+	cpdf ${ORIG} 22 -stdout | \
+	cpdf -stdin -add-rectangle "20 792" -pos-left "20 0" \
+	  -color white -o $@
+p21.pdf: p21w.pdf
+	pdf-crop.sh $< $@ 1275 1651 0 0
+
+p22w.pdf:
+	cpdf ${ORIG} 23 -stdout | \
+	cpdf -stdin -add-rectangle "20 792" -pos-left "430 0" \
+	  -color white -o $@
+p22.pdf: p22w.pdf
+	pdf-crop.sh $< $@ 1275 1651 0 0
+
+
+p23w.pdf:
+	cpdf ${ORIG} 24 -stdout | \
+	cpdf -stdin -add-rectangle "20 792" -pos-left "10 0" \
+	  -color white -o $@
+p23.pdf: p23w.pdf
+	pdf-crop.sh $< $@ 1275 1651 0 0
+
+p24w.pdf:
+	cpdf ${ORIG} 25 -stdout | \
+	cpdf -stdin -add-rectangle "30 792" -pos-left "430 0" \
+	  -color white -o $@
+p24.pdf: p24w.pdf
+	pdf-crop.sh $< $@ 1275 1651 0 0
+
+
+p25w.pdf:
+	cpdf ${ORIG} 26 -stdout | \
+	cpdf -stdin -add-rectangle "22 792" -pos-left "0 0" \
+	  -color white -o $@
+p25.pdf: p25w.pdf
+	pdf-crop.sh $< $@ 1275 1651 0 0
+
+p26w.pdf:
+	cpdf ${ORIG} 27 -stdout | \
+	cpdf -stdin -add-rectangle "20 792" -pos-left "430 0" \
+	  -color white -o $@
+p26.pdf: p26w.pdf
+	pdf-crop.sh $< $@ 1275 1651 0 0
+
+p27w.pdf:
+	cpdf ${ORIG} 28 -stdout | \
+	cpdf -stdin -add-rectangle "30 792" -pos-left "0 0" \
+	  -color white -o $@
+p27.pdf: p27w.pdf
+	pdf-crop.sh $< $@ 1275 1651 0 0
+
+p28w.pdf:
+	cpdf ${ORIG} 29 -stdout | \
+	cpdf -stdin -add-rectangle "20 792" -pos-left "430 0" \
+	  -color white -o $@
+p28.pdf: p28w.pdf
+	pdf-crop.sh $< scr.pdf 1275 1651 0 0
+	cpdf -shift "-4mm 0mm" scr.pdf -o $@
+
+# pdf-crop.sh $< $@ 1275 1651 0 0
+
 
 la_anunciacion.pdf: ${LA_ANUNCIACION_PXXS}
 	cpdf ${LA_ANUNCIACION_PXXS} -o $@
+
+LAS_PASTORES_PXXS = empty.pdf \
+	p20.pdf p21.pdf p22.pdf p23.pdf p24.pdf p25.pdf p26.pdf p27.pdf p28.pdf
+
+
+las_pastores.pdf: ${LAS_PASTORES_PXXS}
+	cpdf ${LAS_PASTORES_PXXS} -o $@
+
 
 clean:
 	rm -f blank.pdf p??.pdf p??w.pdf
