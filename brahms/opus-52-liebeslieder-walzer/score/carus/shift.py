@@ -49,6 +49,9 @@ odd_x_shift = {
 }
             
 any_y_shift = {
+    15: "-4mm",
+    37: "2mm",
+    51: "2mm",
 }
             
 def shift_pages():
@@ -60,11 +63,11 @@ def shift_pages():
         fn = f"clean-singles.d/p{pn:02d}.pdf"
         sfn = f"{dn}/p{pn:02d}.pdf"
         if (not os.path.exists(sfn)) or fn_before(sfn, fn):
-            y_shift = any_y_shift.get(n, "0mm")
+            y_shift = any_y_shift.get(pn, "0mm")
             if n % 2 == 0:
-                x_shift = even_x_shift.get(n, "-10mm")
+                x_shift = even_x_shift.get(pn, "-10mm")
             else:
-                x_shift = even_x_shift.get(n, "-8mm")
+                x_shift = even_x_shift.get(pn, "-8mm")
             shift = f"{x_shift} {y_shift}"
             cmd = f"cpdf -shift '{shift}' {fn} -o {sfn}"
             syscmd(cmd)
