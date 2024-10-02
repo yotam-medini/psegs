@@ -41,15 +41,21 @@ clean-singles.d/p13.pdf: singles.d/p13.pdf
 	  -color white -o $@
 
 clean-singles.d/p14.pdf: singles.d/p14.pdf
-	cpdf $< -add-rectangle "595 20" -pos-left "0 822" \
+	cpdf $< 1 -stdout | \
+	cpdf -stdin -add-rectangle "595 20" -pos-left "0 822" \
+	  -color white -stdout | \
+	cpdf -stdin -add-rectangle "595 20" -pos-left "0 0" \
 	  -color white -o $@
 
 clean-singles.d/p16.pdf: singles.d/p16.pdf
-	cpdf $< -add-rectangle "595 20" -pos-left "0 822" \
+	cpdf $< 1 -stdout | \
+	cpdf -stdin -add-rectangle "595 20" -pos-left "0 822" \
+	  -color white -stdout | \
+	cpdf -stdin -add-rectangle "595 20" -pos-left "0 0" \
 	  -color white -o $@
 
 clean-singles.d/p17.pdf: singles.d/p17.pdf
-	cpdf $< -add-rectangle "10 40" -pos-left "0 822" \
+	cpdf $< -add-rectangle "300 40" -pos-left "10 822" \
 	  -color white -o $@
 
 clean-singles.d/p18.pdf: singles.d/p18.pdf
