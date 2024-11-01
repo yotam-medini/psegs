@@ -93,10 +93,6 @@ clean-singles.d/p30.pdf: Makefile 4021100x.pdf singles.d/p30.pdf
 	rm -rf scr
 	mkdir -p scr
 	cpdf 4021100x.pdf 30 -o scr/4021100x-30.pdf
-	cpdf scr/4021100x-30.pdf -add-rectangle "595 612" -pos-left "0 0" \
-	  -color white -o scr/top.pdf
-	cpdf singles.d/p30.pdf -add-rectangle "595 321" -pos-left "0 612" \
-	  -color white -o scr/bottom.pdf
 	cpdf scr/4021100x-30.pdf -cropbox "0 612 595pt 320pt" -o scr/t-crop.pdf
 	cpdf singles.d/p30.pdf -cropbox "0 0 595pt 612" -o scr/b-crop.pdf
 	gm convert -density 600 scr/t-crop.pdf -quality 100 scr/t-crop.png
