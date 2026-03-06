@@ -61,15 +61,12 @@ $(PDF_BAREN_A4_SMALL): $(PDF_BAREN_A4)
 	rm -rf pages.d small.d
 	mkdir -p pages.d small.d
 	pdfimages -j $(PDF_BAREN_A4) pages.d/page
-	for f in pages.d/page-*.jpg; do \
-	    fb=$$(basename $${f}); \
-	    convert $${f} \
+	mogrify -path small.d \
 	        -colorspace Gray \
 	        -resize 1100x \
 	        -sharpen 0x0.5 \
 	        -quality 30 -compress JPEG \
-	        small.d/$${fb}; \
-	done
+	        pages.d/page-*.jpg
 	img2pdf --pagesize A4 small.d/page-*.jpg -o $@
 	ls -lGt $(PDF_BAREN_A4) $@
 	echo skip rm -rf pages.d small.d
