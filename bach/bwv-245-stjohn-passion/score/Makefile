@@ -58,16 +58,18 @@ $(PDF_BAREN_A4_CHOIR): $(PDF_BAREN_A4)
 # pdfinfo small.pdf | grep size
 
 $(PDF_BAREN_A4_SMALL): $(PDF_BAREN_A4)
-	rm -rf pages.d small.d batch.d
-	mkdir -p pages.d small.d batch.d
+	rm -rf pages.d small.d
+	mkdir -p pages.d small.d
 	pdfimages -j $(PDF_BAREN_A4) pages.d/page
 	for f in pages.d/page-*.jpg; do \
 	    fb=$$(basename $${f}); \
-	    convert $${f} -colorspace Gray -quality 35 -compress JPEG \
+	    convert $${f} \
+	        -colorspace Gray \
+	        -resize 1100x \
+	        -sharpen 0x0.5 \
+	        -quality 30 -compress JPEG \
 	        small.d/$${fb}; \
 	done
-	for b in 0 1 2; do \
-	    convert -density 186 small.d/page-$${b}??.jpg batch.d/$${b}.pdf; \
-	done
-	cpdf batch.d/?.pdf -stdout | cpdf -stdin -scale-to-fit a4portrait -o $@
-	echo skip rm -rf pages.d small.d batch.d
+	img2pdf --pagesize A4 small.d/page-*.jpg -o $@
+	ls -lGt $(PDF_BAREN_A4) $@
+	echo skip rm -rf pages.d small.d
