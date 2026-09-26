@@ -88,4 +88,4 @@ $(PDF_BAREN_A4_CHOIR_SMALL): $(PDF_BAREN_A4_SMALL)
 # Internal Links
 PDF_BAREN_A4_LINKED=${PDF_BAREN_A4_BASE}_linked.pdf
 ${PDF_BAREN_A4_LINKED}: ${PDF_BAREN_A4} linker.json
-	pdf-linker.sh ${?} ${@}
+	pdf-linker.sh ${^} ${@}
